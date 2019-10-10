@@ -1,0 +1,2 @@
+arp -a | awk '{gsub(/\)/, "", $2)} {gsub(/\(/, "", $2)} {print $2}' #list all ips in the network
+curl -s https://ipvigilante.com/$(curl -s https://ipinfo.io/ip) | jq '.data.latitude, .data.longitude, .data.city_name, .data.country_name'
