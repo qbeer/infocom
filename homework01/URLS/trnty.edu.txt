@@ -1,5 +1,0 @@
-PING trnty.edu (199.188.167.70) 56(84) bytes of data.
-
---- trnty.edu ping statistics ---
-5 packets transmitted, 0 received, 100% packet loss, time 4088ms
-

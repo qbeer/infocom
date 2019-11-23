@@ -1,7 +1,0 @@
-PING anokaramsey.edu (204.77.45.10) 56(84) bytes of data.
-64 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=3 ttl=103 time=446 ms
-64 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=4 ttl=103 time=179 ms
-
---- anokaramsey.edu ping statistics ---
-5 packets transmitted, 2 received, 60% packet loss, time 4037ms
-rtt min/avg/max/mdev = 179.891/313.199/446.508/133.309 ms

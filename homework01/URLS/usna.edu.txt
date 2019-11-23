@@ -1,7 +1,0 @@
-PING usna.edu (136.160.88.139) 56(84) bytes of data.
-From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=1 Packet filtered
-From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=2 Packet filtered
-
---- usna.edu ping statistics ---
-5 packets transmitted, 0 received, +2 errors, 100% packet loss, time 4037ms
-

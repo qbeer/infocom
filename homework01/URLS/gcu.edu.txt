@@ -1,5 +1,5 @@
 PING gcu.edu (137.152.22.189) 56(84) bytes of data.
 
 --- gcu.edu ping statistics ---
-5 packets transmitted, 0 received, 100% packet loss, time 4098ms
+50 packets transmitted, 0 received, 100% packet loss, time 49011ms
 

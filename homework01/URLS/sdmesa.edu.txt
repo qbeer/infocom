@@ -1,5 +1,0 @@
-PING sdmesa.edu (209.129.16.62) 56(84) bytes of data.
-
---- sdmesa.edu ping statistics ---
-5 packets transmitted, 0 received, 100% packet loss, time 4097ms
-

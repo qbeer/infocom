@@ -1,5 +1,0 @@
-PING wccnet.edu (198.111.176.8) 56(84) bytes of data.
-
---- wccnet.edu ping statistics ---
-5 packets transmitted, 0 received, 100% packet loss, time 4084ms
-

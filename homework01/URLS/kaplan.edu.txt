@@ -1,5 +1,0 @@
-PING kaplan.edu (52.162.238.127) 56(84) bytes of data.
-
---- kaplan.edu ping statistics ---
-5 packets transmitted, 0 received, 100% packet loss, time 4076ms
-

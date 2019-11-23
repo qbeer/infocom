@@ -1,0 +1,2049 @@
+PING olaralex.com (185.199.110.153) 56(84) bytes of data.
+64 bytes from 185.199.110.153: icmp_seq=1 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=2 ttl=54 time=14.0 ms
+64 bytes from 185.199.110.153: icmp_seq=3 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=4 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=5 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=6 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=7 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=8 ttl=54 time=14.6 ms
+64 bytes from 185.199.110.153: icmp_seq=9 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=10 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=11 ttl=54 time=14.5 ms
+64 bytes from 185.199.110.153: icmp_seq=12 ttl=54 time=14.7 ms
+64 bytes from 185.199.110.153: icmp_seq=13 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=14 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=15 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=16 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=17 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=18 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=19 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=20 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=21 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=22 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=23 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=24 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=25 ttl=54 time=14.0 ms
+64 bytes from 185.199.110.153: icmp_seq=26 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=27 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=28 ttl=54 time=14.0 ms
+64 bytes from 185.199.110.153: icmp_seq=29 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=30 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=31 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=32 ttl=54 time=14.2 ms
+64 bytes from 185.199.110.153: icmp_seq=33 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=34 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=35 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=36 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=37 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=38 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=39 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=40 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=41 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=42 ttl=54 time=14.4 ms
+64 bytes from 185.199.110.153: icmp_seq=43 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=44 ttl=54 time=14.3 ms
+64 bytes from 185.199.110.153: icmp_seq=45 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=46 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=47 ttl=54 time=14.7 ms
+64 bytes from 185.199.110.153: icmp_seq=48 ttl=54 time=14.6 ms
+64 bytes from 185.199.110.153: icmp_seq=49 ttl=54 time=14.1 ms
+64 bytes from 185.199.110.153: icmp_seq=50 ttl=54 time=14.3 ms
+
+--- olaralex.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49064ms
+rtt min/avg/max/mdev = 14.002/14.278/14.792/0.202 ms
+ping -c 50 olaralex.com DONE
+PING alaska.edu (137.229.114.150) 56(84) bytes of data.
+
+--- alaska.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+
+ping -c 50 alaska.edu DONE
+PING alaskacc.edu (184.154.231.31) 56(84) bytes of data.
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=1 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=2 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=3 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=4 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=5 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=6 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=7 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=8 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=9 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=10 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=11 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=12 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=13 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=14 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=15 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=16 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=17 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=18 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=19 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=20 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=21 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=22 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=23 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=24 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=25 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=26 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=27 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=28 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=29 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=30 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=31 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=32 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=33 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=34 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=35 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=36 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=37 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=38 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=39 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=40 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=41 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=42 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=43 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=44 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=45 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=46 ttl=48 time=118 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=47 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=48 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=49 ttl=48 time=119 ms
+64 bytes from 31.231.154.184.unassigned.ord.singlehop.net (184.154.231.31): icmp_seq=50 ttl=48 time=119 ms
+
+--- alaskacc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 118.962/119.277/119.776/0.293 ms
+ping -c 50 alaskacc.edu DONE
+ping -c 50 npcc.edu DONE
+PING uaf.edu (137.229.114.150) 56(84) bytes of data.
+
+--- uaf.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 uaf.edu DONE
+ping -c 50 uafs.edu DONE
+PING aamu.edu (198.180.132.26) 56(84) bytes of data.
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=1 ttl=41 time=137 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=2 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=3 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=4 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=5 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=6 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=7 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=8 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=9 ttl=41 time=137 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=10 ttl=41 time=139 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=11 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=12 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=13 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=14 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=15 ttl=41 time=139 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=16 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=17 ttl=41 time=137 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=18 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=19 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=20 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=21 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=22 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=23 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=24 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=25 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=26 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=27 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=28 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=29 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=30 ttl=41 time=138 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=31 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=32 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=33 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=34 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=35 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=36 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=37 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=38 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=39 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=40 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=41 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=42 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=43 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=44 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=45 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=46 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=47 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=48 ttl=41 time=136 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=49 ttl=41 time=137 ms
+64 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=50 ttl=41 time=136 ms
+
+--- aamu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49070ms
+rtt min/avg/max/mdev = 136.197/136.744/139.704/0.807 ms
+ping -c 50 aamu.edu DONE
+PING athens.edu (198.1.73.76) 56(84) bytes of data.
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=1 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=2 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=3 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=4 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=5 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=6 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=7 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=8 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=9 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=10 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=11 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=12 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=13 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=14 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=15 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=16 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=17 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=18 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=19 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=20 ttl=36 time=171 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=21 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=22 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=23 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=24 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=25 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=26 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=27 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=28 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=29 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=30 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=31 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=32 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=33 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=34 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=35 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=36 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=37 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=38 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=39 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=40 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=41 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=42 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=43 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=44 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=45 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=46 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=47 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=48 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=49 ttl=36 time=172 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=50 ttl=36 time=172 ms
+
+--- athens.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49009ms
+rtt min/avg/max/mdev = 171.852/172.281/172.792/0.453 ms
+ping -c 50 athens.edu DONE
+PING auburn.edu (131.204.138.170) 56(84) bytes of data.
+
+--- auburn.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 auburn.edu DONE
+PING aum.edu (199.80.9.64) 56(84) bytes of data.
+
+--- aum.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 aum.edu DONE
+PING bsc.edu (104.26.0.60) 56(84) bytes of data.
+64 bytes from 104.26.0.60: icmp_seq=1 ttl=56 time=1.16 ms
+64 bytes from 104.26.0.60: icmp_seq=2 ttl=56 time=1.21 ms
+64 bytes from 104.26.0.60: icmp_seq=3 ttl=56 time=1.16 ms
+64 bytes from 104.26.0.60: icmp_seq=4 ttl=56 time=1.17 ms
+64 bytes from 104.26.0.60: icmp_seq=5 ttl=56 time=1.46 ms
+64 bytes from 104.26.0.60: icmp_seq=6 ttl=56 time=1.12 ms
+64 bytes from 104.26.0.60: icmp_seq=7 ttl=56 time=1.64 ms
+64 bytes from 104.26.0.60: icmp_seq=8 ttl=56 time=1.45 ms
+64 bytes from 104.26.0.60: icmp_seq=9 ttl=56 time=0.827 ms
+64 bytes from 104.26.0.60: icmp_seq=10 ttl=56 time=1.40 ms
+64 bytes from 104.26.0.60: icmp_seq=11 ttl=56 time=1.20 ms
+64 bytes from 104.26.0.60: icmp_seq=12 ttl=56 time=1.31 ms
+64 bytes from 104.26.0.60: icmp_seq=13 ttl=56 time=1.09 ms
+64 bytes from 104.26.0.60: icmp_seq=14 ttl=56 time=1.38 ms
+64 bytes from 104.26.0.60: icmp_seq=15 ttl=56 time=1.11 ms
+64 bytes from 104.26.0.60: icmp_seq=16 ttl=56 time=1.44 ms
+64 bytes from 104.26.0.60: icmp_seq=17 ttl=56 time=1.16 ms
+64 bytes from 104.26.0.60: icmp_seq=18 ttl=56 time=1.10 ms
+64 bytes from 104.26.0.60: icmp_seq=19 ttl=56 time=0.928 ms
+64 bytes from 104.26.0.60: icmp_seq=20 ttl=56 time=1.23 ms
+64 bytes from 104.26.0.60: icmp_seq=21 ttl=56 time=1.31 ms
+64 bytes from 104.26.0.60: icmp_seq=22 ttl=56 time=1.14 ms
+64 bytes from 104.26.0.60: icmp_seq=23 ttl=56 time=1.47 ms
+64 bytes from 104.26.0.60: icmp_seq=24 ttl=56 time=4.89 ms
+64 bytes from 104.26.0.60: icmp_seq=25 ttl=56 time=1.16 ms
+64 bytes from 104.26.0.60: icmp_seq=26 ttl=56 time=1.36 ms
+64 bytes from 104.26.0.60: icmp_seq=27 ttl=56 time=1.39 ms
+64 bytes from 104.26.0.60: icmp_seq=28 ttl=56 time=1.38 ms
+64 bytes from 104.26.0.60: icmp_seq=29 ttl=56 time=1.14 ms
+64 bytes from 104.26.0.60: icmp_seq=30 ttl=56 time=1.36 ms
+64 bytes from 104.26.0.60: icmp_seq=31 ttl=56 time=1.19 ms
+64 bytes from 104.26.0.60: icmp_seq=32 ttl=56 time=1.39 ms
+64 bytes from 104.26.0.60: icmp_seq=33 ttl=56 time=0.910 ms
+64 bytes from 104.26.0.60: icmp_seq=34 ttl=56 time=1.89 ms
+64 bytes from 104.26.0.60: icmp_seq=35 ttl=56 time=1.08 ms
+64 bytes from 104.26.0.60: icmp_seq=36 ttl=56 time=1.21 ms
+64 bytes from 104.26.0.60: icmp_seq=37 ttl=56 time=1.02 ms
+64 bytes from 104.26.0.60: icmp_seq=38 ttl=56 time=1.52 ms
+64 bytes from 104.26.0.60: icmp_seq=39 ttl=56 time=1.63 ms
+64 bytes from 104.26.0.60: icmp_seq=40 ttl=56 time=1.55 ms
+64 bytes from 104.26.0.60: icmp_seq=41 ttl=56 time=1.37 ms
+64 bytes from 104.26.0.60: icmp_seq=42 ttl=56 time=1.46 ms
+64 bytes from 104.26.0.60: icmp_seq=43 ttl=56 time=1.08 ms
+64 bytes from 104.26.0.60: icmp_seq=44 ttl=56 time=1.12 ms
+64 bytes from 104.26.0.60: icmp_seq=45 ttl=56 time=1.16 ms
+64 bytes from 104.26.0.60: icmp_seq=46 ttl=56 time=1.42 ms
+64 bytes from 104.26.0.60: icmp_seq=47 ttl=56 time=1.04 ms
+64 bytes from 104.26.0.60: icmp_seq=48 ttl=56 time=1.21 ms
+64 bytes from 104.26.0.60: icmp_seq=49 ttl=56 time=1.06 ms
+64 bytes from 104.26.0.60: icmp_seq=50 ttl=56 time=1.15 ms
+
+--- bsc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 0.827/1.335/4.891/0.548 ms
+ping -c 50 bsc.edu DONE
+PING calhoun.edu (69.16.249.10) 56(84) bytes of data.
+64 bytes from 69.16.249.10: icmp_seq=1 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=2 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=3 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=4 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=5 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=6 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=7 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=8 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=9 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=10 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=11 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=12 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=13 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=14 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=15 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=16 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=17 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=18 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=19 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=20 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=21 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=22 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=23 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=24 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=25 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=26 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=27 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=28 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=29 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=30 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=31 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=32 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=33 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=34 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=35 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=36 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=37 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=38 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=39 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=40 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=41 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=42 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=43 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=44 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=45 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=46 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=47 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=48 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=49 ttl=40 time=129 ms
+64 bytes from 69.16.249.10: icmp_seq=50 ttl=40 time=129 ms
+
+--- calhoun.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 129.009/129.296/129.776/0.419 ms
+ping -c 50 calhoun.edu DONE
+PING escc.edu (67.227.190.199) 56(84) bytes of data.
+64 bytes from 67.227.190.199: icmp_seq=1 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=2 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=3 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=4 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=5 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=6 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=7 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=8 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=9 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=10 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=11 ttl=40 time=128 ms
+64 bytes from 67.227.190.199: icmp_seq=12 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=13 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=14 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=15 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=16 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=17 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=18 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=19 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=20 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=21 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=22 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=23 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=24 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=25 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=26 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=27 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=28 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=29 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=30 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=31 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=32 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=33 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=34 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=35 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=36 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=37 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=38 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=39 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=40 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=41 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=42 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=43 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=44 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=45 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=46 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=47 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=48 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=49 ttl=40 time=129 ms
+64 bytes from 67.227.190.199: icmp_seq=50 ttl=40 time=129 ms
+
+--- escc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49062ms
+rtt min/avg/max/mdev = 128.998/129.340/129.931/0.512 ms
+ping -c 50 escc.edu DONE
+ping -c 50 faulknerstate.edu DONE
+PING gadsdenstate.edu (161.47.152.53) 56(84) bytes of data.
+64 bytes from 161.47.152.53: icmp_seq=1 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=2 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=3 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=4 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=5 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=6 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=7 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=8 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=9 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=10 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=11 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=12 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=13 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=14 ttl=109 time=122 ms
+64 bytes from 161.47.152.53: icmp_seq=15 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=16 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=17 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=18 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=19 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=20 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=21 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=22 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=23 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=24 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=25 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=26 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=27 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=28 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=29 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=30 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=31 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=32 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=33 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=34 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=35 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=36 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=37 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=38 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=39 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=40 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=41 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=42 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=43 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=44 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=45 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=46 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=47 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=48 ttl=109 time=119 ms
+64 bytes from 161.47.152.53: icmp_seq=49 ttl=109 time=120 ms
+64 bytes from 161.47.152.53: icmp_seq=50 ttl=109 time=120 ms
+
+--- gadsdenstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49064ms
+rtt min/avg/max/mdev = 119.672/120.168/122.837/0.494 ms
+ping -c 50 gadsdenstate.edu DONE
+PING huntingdon.edu (151.101.194.159) 56(84) bytes of data.
+64 bytes from 151.101.194.159: icmp_seq=1 ttl=54 time=14.2 ms
+64 bytes from 151.101.194.159: icmp_seq=2 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=3 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=4 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=5 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=6 ttl=54 time=14.0 ms
+64 bytes from 151.101.194.159: icmp_seq=7 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=8 ttl=54 time=14.2 ms
+64 bytes from 151.101.194.159: icmp_seq=9 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=10 ttl=54 time=14.0 ms
+64 bytes from 151.101.194.159: icmp_seq=11 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=12 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=13 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=14 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=15 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=16 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=17 ttl=54 time=14.0 ms
+64 bytes from 151.101.194.159: icmp_seq=18 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=19 ttl=54 time=14.6 ms
+64 bytes from 151.101.194.159: icmp_seq=20 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=21 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=22 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=23 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=24 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=25 ttl=54 time=14.2 ms
+64 bytes from 151.101.194.159: icmp_seq=26 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=27 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=28 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=29 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=30 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=31 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=32 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=33 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=34 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=35 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=36 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=37 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=38 ttl=54 time=14.2 ms
+64 bytes from 151.101.194.159: icmp_seq=39 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=40 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=41 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=42 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=43 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=44 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=45 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=46 ttl=54 time=14.3 ms
+64 bytes from 151.101.194.159: icmp_seq=47 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=48 ttl=54 time=14.4 ms
+64 bytes from 151.101.194.159: icmp_seq=49 ttl=54 time=14.1 ms
+64 bytes from 151.101.194.159: icmp_seq=50 ttl=54 time=14.1 ms
+
+--- huntingdon.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49049ms
+rtt min/avg/max/mdev = 14.041/14.259/14.604/0.209 ms
+ping -c 50 huntingdon.edu DONE
+PING jsu.edu (205.174.48.175) 56(84) bytes of data.
+
+--- jsu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 jsu.edu DONE
+PING lbwcc.edu (20.36.222.204) 56(84) bytes of data.
+
+--- lbwcc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 lbwcc.edu DONE
+PING montevallo.edu (207.157.80.30) 56(84) bytes of data.
+
+--- montevallo.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49352ms
+
+ping -c 50 montevallo.edu DONE
+PING nacc.edu (20.36.217.47) 56(84) bytes of data.
+
+--- nacc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 nacc.edu DONE
+PING nwscc.edu (20.36.217.47) 56(84) bytes of data.
+
+--- nwscc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 nwscc.edu DONE
+PING oakwood.edu (104.238.111.182) 56(84) bytes of data.
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=1 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=2 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=3 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=4 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=5 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=6 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=7 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=8 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=9 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=10 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=11 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=12 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=13 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=14 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=15 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=16 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=17 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=18 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=19 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=20 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=21 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=22 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=23 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=24 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=25 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=26 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=27 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=28 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=29 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=30 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=31 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=32 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=33 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=34 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=35 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=36 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=37 ttl=47 time=185 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=38 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=39 ttl=47 time=175 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=40 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=41 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=42 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=43 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=44 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=45 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=46 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=47 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=48 ttl=47 time=173 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=49 ttl=47 time=172 ms
+64 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=50 ttl=47 time=172 ms
+
+--- oakwood.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49058ms
+rtt min/avg/max/mdev = 172.744/173.390/185.883/1.888 ms
+ping -c 50 oakwood.edu DONE
+PING samford.edu (104.245.148.236) 56(84) bytes of data.
+
+--- samford.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+
+ping -c 50 samford.edu DONE
+PING sebc.edu (35.190.174.218) 56(84) bytes of data.
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=1 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=2 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=3 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=4 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=5 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=6 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=7 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=8 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=9 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=10 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=11 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=12 ttl=52 time=113 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=13 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=14 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=15 ttl=52 time=113 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=16 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=17 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=18 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=19 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=20 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=21 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=22 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=23 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=24 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=25 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=26 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=27 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=28 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=29 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=30 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=31 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=32 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=33 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=34 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=35 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=36 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=37 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=38 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=39 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=40 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=41 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=42 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=43 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=44 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=45 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=46 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=47 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=48 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=49 ttl=52 time=112 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=50 ttl=52 time=112 ms
+
+--- sebc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49026ms
+rtt min/avg/max/mdev = 112.240/112.613/113.047/0.484 ms
+ping -c 50 sebc.edu DONE
+PING southalabama.edu (192.245.221.11) 56(84) bytes of data.
+
+--- southalabama.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 southalabama.edu DONE
+PING trenholmstate.edu (70.32.95.82) 56(84) bytes of data.
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=1 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=2 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=3 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=4 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=5 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=6 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=7 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=8 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=9 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=10 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=11 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=12 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=13 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=14 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=15 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=16 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=17 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=18 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=19 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=20 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=21 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=22 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=23 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=24 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=25 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=26 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=27 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=28 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=29 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=30 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=31 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=32 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=33 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=34 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=35 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=36 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=37 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=38 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=39 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=40 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=41 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=42 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=43 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=44 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=45 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=46 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=47 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=48 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=49 ttl=47 time=103 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=50 ttl=47 time=103 ms
+
+--- trenholmstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49064ms
+rtt min/avg/max/mdev = 103.000/103.334/103.823/0.487 ms
+ping -c 50 trenholmstate.edu DONE
+PING troy.edu (69.63.130.234) 56(84) bytes of data.
+
+--- troy.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+
+ping -c 50 troy.edu DONE
+PING tuskegee.edu (20.44.86.155) 56(84) bytes of data.
+
+--- tuskegee.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49136ms
+
+ping -c 50 tuskegee.edu DONE
+PING ua.edu (130.160.2.54) 56(84) bytes of data.
+
+--- ua.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 ua.edu DONE
+PING uab.edu (198.73.7.192) 56(84) bytes of data.
+64 bytes from 198.73.7.192: icmp_seq=1 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=2 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=3 ttl=40 time=1471 ms
+64 bytes from 198.73.7.192: icmp_seq=4 ttl=40 time=464 ms
+64 bytes from 198.73.7.192: icmp_seq=5 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=6 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=7 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=8 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=9 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=10 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=11 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=12 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=13 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=14 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=15 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=16 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=17 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=18 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=19 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=20 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=21 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=22 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=23 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=24 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=25 ttl=40 time=124 ms
+64 bytes from 198.73.7.192: icmp_seq=26 ttl=40 time=124 ms
+64 bytes from 198.73.7.192: icmp_seq=27 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=28 ttl=40 time=124 ms
+64 bytes from 198.73.7.192: icmp_seq=29 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=30 ttl=40 time=124 ms
+64 bytes from 198.73.7.192: icmp_seq=31 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=32 ttl=40 time=126 ms
+64 bytes from 198.73.7.192: icmp_seq=33 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=34 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=35 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=36 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=37 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=38 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=39 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=40 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=41 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=42 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=43 ttl=40 time=124 ms
+64 bytes from 198.73.7.192: icmp_seq=44 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=45 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=46 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=47 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=48 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=49 ttl=40 time=125 ms
+64 bytes from 198.73.7.192: icmp_seq=50 ttl=40 time=124 ms
+
+--- uab.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 124.927/158.967/1471.278/193.410 ms, pipe 2
+ping -c 50 uab.edu DONE
+PING uah.edu (146.229.1.10) 56(84) bytes of data.
+
+--- uah.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49270ms
+
+ping -c 50 uah.edu DONE
+PING una.edu (216.54.215.184) 56(84) bytes of data.
+
+--- una.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49302ms
+
+ping -c 50 una.edu DONE
+PING snead.edu (40.67.157.135) 56(84) bytes of data.
+
+--- snead.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 snead.edu DONE
+PING anc.edu (96.43.42.71) 56(84) bytes of data.
+
+--- anc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 anc.edu DONE
+ping -c 50 astate.edu DONE
+PING atu.edu (147.135.72.228) 56(84) bytes of data.
+64 bytes from 147.135.72.228: icmp_seq=1 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=2 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=3 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=4 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=5 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=6 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=7 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=8 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=9 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=10 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=11 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=12 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=13 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=14 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=15 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=16 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=17 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=18 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=19 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=20 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=21 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=22 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=23 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=24 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=25 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=26 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=27 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=28 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=29 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=30 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=31 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=32 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=33 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=34 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=35 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=36 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=37 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=38 ttl=45 time=109 ms
+64 bytes from 147.135.72.228: icmp_seq=39 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=40 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=41 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=42 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=43 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=44 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=45 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=46 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=47 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=48 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=49 ttl=45 time=108 ms
+64 bytes from 147.135.72.228: icmp_seq=50 ttl=45 time=108 ms
+
+--- atu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49063ms
+rtt min/avg/max/mdev = 108.073/108.438/109.090/0.296 ms
+ping -c 50 atu.edu DONE
+PING cbc.edu (35.229.18.229) 56(84) bytes of data.
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=1 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=2 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=3 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=4 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=5 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=6 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=7 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=8 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=9 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=10 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=11 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=12 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=13 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=14 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=15 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=16 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=17 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=18 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=19 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=20 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=21 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=22 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=23 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=24 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=25 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=26 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=27 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=28 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=29 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=30 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=31 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=32 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=33 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=34 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=35 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=36 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=37 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=38 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=39 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=40 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=41 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=42 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=43 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=44 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=45 ttl=53 time=113 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=46 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=47 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=48 ttl=53 time=117 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=49 ttl=53 time=112 ms
+64 bytes from 229.18.229.35.bc.googleusercontent.com (35.229.18.229): icmp_seq=50 ttl=53 time=113 ms
+
+--- cbc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49073ms
+rtt min/avg/max/mdev = 112.284/112.874/117.656/0.767 ms
+ping -c 50 cbc.edu DONE
+PING harding.edu (104.130.222.174) 56(84) bytes of data.
+64 bytes from 104.130.222.174: icmp_seq=1 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=2 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=3 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=4 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=5 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=6 ttl=45 time=128 ms
+64 bytes from 104.130.222.174: icmp_seq=7 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=8 ttl=45 time=128 ms
+64 bytes from 104.130.222.174: icmp_seq=9 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=10 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=11 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=12 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=13 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=14 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=15 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=16 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=17 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=18 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=19 ttl=45 time=121 ms
+64 bytes from 104.130.222.174: icmp_seq=20 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=21 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=22 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=23 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=24 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=25 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=26 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=27 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=28 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=29 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=30 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=31 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=32 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=33 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=34 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=35 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=36 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=37 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=38 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=39 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=40 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=41 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=42 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=43 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=44 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=45 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=46 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=47 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=48 ttl=45 time=119 ms
+64 bytes from 104.130.222.174: icmp_seq=49 ttl=45 time=120 ms
+64 bytes from 104.130.222.174: icmp_seq=50 ttl=45 time=119 ms
+
+--- harding.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49065ms
+rtt min/avg/max/mdev = 119.690/120.349/128.846/1.739 ms
+ping -c 50 harding.edu DONE
+PING hendrix.edu (209.65.56.17) 56(84) bytes of data.
+
+--- hendrix.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 hendrix.edu DONE
+PING hsu.edu (207.38.86.245) 56(84) bytes of data.
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=1 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=2 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=3 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=4 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=5 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=6 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=7 ttl=47 time=132 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=8 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=9 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=10 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=11 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=12 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=13 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=14 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=15 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=16 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=17 ttl=47 time=132 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=18 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=19 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=20 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=21 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=22 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=23 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=24 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=25 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=26 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=27 ttl=47 time=130 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=28 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=29 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=30 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=31 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=32 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=33 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=34 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=35 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=36 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=37 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=38 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=39 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=40 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=41 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=42 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=43 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=44 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=45 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=46 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=47 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=48 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=49 ttl=47 time=131 ms
+64 bytes from web507.webfaction.com (207.38.86.245): icmp_seq=50 ttl=47 time=131 ms
+
+--- hsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 130.991/131.359/132.327/0.564 ms
+ping -c 50 hsu.edu DONE
+PING jbu.edu (216.146.46.11) 56(84) bytes of data.
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=1 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=2 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=3 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=4 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=5 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=6 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=7 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=8 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=9 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=10 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=11 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=12 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=13 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=14 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=15 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=16 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=17 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=18 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=19 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=20 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=21 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=22 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=23 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=24 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=25 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=26 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=27 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=28 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=29 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=30 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=31 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=32 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=33 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=34 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=35 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=36 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=37 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=38 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=39 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=40 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=41 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=42 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=43 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=44 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=45 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=46 ttl=42 time=111 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=47 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=48 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=49 ttl=42 time=112 ms
+64 bytes from redirector2.dynect.net (216.146.46.11): icmp_seq=50 ttl=42 time=112 ms
+
+--- jbu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49061ms
+rtt min/avg/max/mdev = 111.636/111.995/112.605/0.329 ms
+ping -c 50 jbu.edu DONE
+PING lyon.edu (40.119.1.254) 56(84) bytes of data.
+
+--- lyon.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 lyon.edu DONE
+ping -c 50 midsouthcc.edu DONE
+PING northark.edu (208.90.106.40) 56(84) bytes of data.
+
+--- northark.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 northark.edu DONE
+PING nwacc.edu (52.11.50.231) 56(84) bytes of data.
+
+--- nwacc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+
+ping -c 50 nwacc.edu DONE
+PING nwti.edu (160.153.136.3) 56(84) bytes of data.
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=1 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=2 ttl=44 time=31.8 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=3 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=4 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=5 ttl=44 time=31.5 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=6 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=7 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=8 ttl=44 time=31.8 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=9 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=10 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=11 ttl=44 time=32.1 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=12 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=13 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=14 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=15 ttl=44 time=31.5 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=16 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=17 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=18 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=19 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=20 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=21 ttl=44 time=31.5 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=22 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=23 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=24 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=25 ttl=44 time=31.5 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=26 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=27 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=28 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=29 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=30 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=31 ttl=44 time=31.8 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=32 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=33 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=34 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=35 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=36 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=37 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=38 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=39 ttl=44 time=31.8 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=40 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=41 ttl=44 time=32.1 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=42 ttl=44 time=31.7 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=43 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=44 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=45 ttl=44 time=31.5 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=46 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=47 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=48 ttl=44 time=31.9 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=49 ttl=44 time=31.6 ms
+64 bytes from ip-160-153-136-3.ip.secureserver.net (160.153.136.3): icmp_seq=50 ttl=44 time=31.4 ms
+
+--- nwti.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49081ms
+rtt min/avg/max/mdev = 31.403/31.731/32.119/0.225 ms
+ping -c 50 nwti.edu DONE
+PING obu.edu (35.193.109.140) 56(84) bytes of data.
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=1 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=2 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=3 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=4 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=5 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=6 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=7 ttl=51 time=121 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=8 ttl=51 time=121 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=9 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=10 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=11 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=12 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=13 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=14 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=15 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=16 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=17 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=18 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=19 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=20 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=21 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=22 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=23 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=24 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=25 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=26 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=27 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=28 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=29 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=30 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=31 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=32 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=33 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=34 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=35 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=36 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=37 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=38 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=39 ttl=51 time=121 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=40 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=41 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=42 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=43 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=44 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=45 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=46 ttl=51 time=124 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=47 ttl=51 time=119 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=48 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=49 ttl=51 time=120 ms
+64 bytes from 140.109.193.35.bc.googleusercontent.com (35.193.109.140): icmp_seq=50 ttl=51 time=119 ms
+
+--- obu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49066ms
+rtt min/avg/max/mdev = 119.724/120.444/124.356/0.793 ms
+ping -c 50 obu.edu DONE
+PING ozarks.edu (35.194.25.72) 56(84) bytes of data.
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=1 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=2 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=3 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=4 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=5 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=6 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=7 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=8 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=9 ttl=51 time=123 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=10 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=11 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=12 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=13 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=14 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=15 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=16 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=17 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=18 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=19 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=20 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=21 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=22 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=23 ttl=51 time=124 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=24 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=25 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=26 ttl=51 time=123 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=27 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=28 ttl=51 time=126 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=29 ttl=51 time=123 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=30 ttl=51 time=123 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=31 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=32 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=33 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=34 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=35 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=36 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=37 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=38 ttl=51 time=123 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=39 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=40 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=41 ttl=51 time=121 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=42 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=43 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=44 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=45 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=46 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=47 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=48 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=49 ttl=51 time=122 ms
+64 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=50 ttl=51 time=122 ms
+
+--- ozarks.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49018ms
+rtt min/avg/max/mdev = 121.995/122.641/126.501/0.769 ms
+ping -c 50 ozarks.edu DONE
+PING pccua.edu (104.130.70.88) 56(84) bytes of data.
+64 bytes from 104.130.70.88: icmp_seq=1 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=2 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=3 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=4 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=5 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=6 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=7 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=8 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=9 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=10 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=11 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=12 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=13 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=14 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=15 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=16 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=17 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=18 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=19 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=20 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=21 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=22 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=23 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=24 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=25 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=26 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=27 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=28 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=29 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=30 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=31 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=32 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=33 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=34 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=35 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=36 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=37 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=38 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=39 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=40 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=41 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=42 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=43 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=44 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=45 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=46 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=47 ttl=45 time=119 ms
+64 bytes from 104.130.70.88: icmp_seq=48 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=49 ttl=45 time=118 ms
+64 bytes from 104.130.70.88: icmp_seq=50 ttl=45 time=118 ms
+
+--- pccua.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49074ms
+rtt min/avg/max/mdev = 118.454/118.818/119.401/0.250 ms
+ping -c 50 pccua.edu DONE
+ping -c 50 pulaskitech.edu DONE
+PING saumag.edu (72.35.208.29) 56(84) bytes of data.
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=1 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=2 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=3 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=4 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=5 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=6 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=7 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=8 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=9 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=10 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=11 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=12 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=13 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=14 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=15 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=16 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=17 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=18 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=19 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=20 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=21 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=22 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=23 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=24 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=25 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=26 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=27 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=28 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=29 ttl=107 time=148 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=30 ttl=107 time=147 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=31 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=32 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=33 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=34 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=35 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=36 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=37 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=38 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=39 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=40 ttl=107 time=147 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=41 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=42 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=43 ttl=107 time=148 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=44 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=45 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=46 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=47 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=48 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=49 ttl=107 time=146 ms
+64 bytes from saumag.edu (72.35.208.29): icmp_seq=50 ttl=107 time=146 ms
+
+--- saumag.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49067ms
+rtt min/avg/max/mdev = 146.004/146.582/148.928/0.684 ms
+ping -c 50 saumag.edu DONE
+PING seark.edu (23.185.0.2) 56(84) bytes of data.
+64 bytes from 23.185.0.2: icmp_seq=1 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=2 ttl=54 time=14.5 ms
+64 bytes from 23.185.0.2: icmp_seq=3 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=4 ttl=54 time=14.6 ms
+64 bytes from 23.185.0.2: icmp_seq=5 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=6 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=7 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=8 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=9 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=10 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=11 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=12 ttl=54 time=14.7 ms
+64 bytes from 23.185.0.2: icmp_seq=13 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=14 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=15 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=16 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=17 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=18 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=19 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=20 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=21 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=22 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=23 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=24 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=25 ttl=54 time=14.5 ms
+64 bytes from 23.185.0.2: icmp_seq=26 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=27 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.2: icmp_seq=28 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=29 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=30 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=31 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=32 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=33 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=34 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=35 ttl=54 time=14.5 ms
+64 bytes from 23.185.0.2: icmp_seq=36 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=37 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=38 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=39 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.2: icmp_seq=40 ttl=54 time=15.9 ms
+64 bytes from 23.185.0.2: icmp_seq=41 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.2: icmp_seq=42 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=43 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=44 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.2: icmp_seq=45 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.2: icmp_seq=46 ttl=54 time=14.6 ms
+64 bytes from 23.185.0.2: icmp_seq=47 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.2: icmp_seq=48 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.2: icmp_seq=49 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.2: icmp_seq=50 ttl=54 time=14.4 ms
+
+--- seark.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49068ms
+rtt min/avg/max/mdev = 14.058/14.354/15.935/0.282 ms
+ping -c 50 seark.edu DONE
+PING uaccb.edu (208.190.107.139) 56(84) bytes of data.
+
+--- uaccb.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 uaccb.edu DONE
+PING ualr.edu (144.167.4.20) 56(84) bytes of data.
+
+--- ualr.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+
+ping -c 50 ualr.edu DONE
+PING uams.edu (144.30.2.72) 56(84) bytes of data.
+
+--- uams.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 uams.edu DONE
+ping -c 50 uapb.edu DONE
+PING uark.edu (130.184.16.54) 56(84) bytes of data.
+
+--- uark.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49003ms
+
+ping -c 50 uark.edu DONE
+PING uca.edu (161.31.3.35) 56(84) bytes of data.
+
+--- uca.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
+ping -c 50 uca.edu DONE
+PING wbcoll.edu (69.16.220.9) 56(84) bytes of data.
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=1 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=2 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=3 ttl=39 time=134 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=4 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=5 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=6 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=7 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=8 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=9 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=10 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=11 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=12 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=13 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=14 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=15 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=16 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=17 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=18 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=19 ttl=39 time=134 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=20 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=21 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=22 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=23 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=24 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=25 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=26 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=27 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=28 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=29 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=30 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=31 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=32 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=33 ttl=39 time=134 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=34 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=35 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=36 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=37 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=38 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=39 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=40 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=41 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=42 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=43 ttl=39 time=136 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=44 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=45 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=46 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=47 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=48 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=49 ttl=39 time=135 ms
+64 bytes from host1.springdesigns.net (69.16.220.9): icmp_seq=50 ttl=39 time=135 ms
+
+--- wbcoll.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 52735ms
+rtt min/avg/max/mdev = 134.782/135.234/136.192/0.542 ms
+ping -c 50 wbcoll.edu DONE
+PING arizona.edu (128.196.128.233) 56(84) bytes of data.
+
+--- arizona.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49015ms
+
+ping -c 50 arizona.edu DONE
+PING azwestern.edu (198.60.183.184) 56(84) bytes of data.
+64 bytes from 198.60.183.184: icmp_seq=1 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=2 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=3 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=4 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=5 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=6 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=7 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=8 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=9 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=10 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=11 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=12 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=13 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=14 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=15 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=16 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=17 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=18 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=19 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=20 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=21 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=22 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=23 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=24 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=25 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=26 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=27 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=28 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=29 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=30 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=31 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=32 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=33 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=34 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=35 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=36 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=37 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=38 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=39 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=40 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=41 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=42 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=43 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=44 ttl=42 time=171 ms
+64 bytes from 198.60.183.184: icmp_seq=45 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=46 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=47 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=48 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=49 ttl=42 time=172 ms
+64 bytes from 198.60.183.184: icmp_seq=50 ttl=42 time=172 ms
+
+--- azwestern.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49053ms
+rtt min/avg/max/mdev = 171.863/172.305/172.735/0.508 ms
+ping -c 50 azwestern.edu DONE
+PING bryan.edu (104.198.100.43) 56(84) bytes of data.
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=1 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=2 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=3 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=4 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=5 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=6 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=7 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=8 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=9 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=10 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=11 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=12 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=13 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=14 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=15 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=16 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=17 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=18 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=19 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=20 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=21 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=22 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=23 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=24 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=25 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=26 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=27 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=28 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=29 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=30 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=31 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=32 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=33 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=34 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=35 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=36 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=37 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=38 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=39 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=40 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=41 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=42 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=43 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=44 ttl=49 time=153 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=45 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=46 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=47 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=48 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=49 ttl=49 time=154 ms
+64 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=50 ttl=49 time=154 ms
+
+--- bryan.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49058ms
+rtt min/avg/max/mdev = 153.656/154.185/154.739/0.330 ms
+ping -c 50 bryan.edu DONE
+PING centralaz.edu (192.124.249.63) 56(84) bytes of data.
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=1 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=3 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=4 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=5 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=6 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=7 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=8 ttl=49 time=16.5 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=9 ttl=49 time=16.9 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=10 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=11 ttl=49 time=16.5 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=12 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=13 ttl=49 time=16.8 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=14 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=15 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=16 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=17 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=18 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=19 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=20 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=21 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=22 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=23 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=24 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=25 ttl=49 time=16.8 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=26 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=27 ttl=49 time=16.5 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=28 ttl=49 time=16.7 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=29 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=30 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=31 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=32 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=33 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=34 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=35 ttl=49 time=17.1 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=36 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=37 ttl=49 time=16.5 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=38 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=39 ttl=49 time=16.4 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=40 ttl=49 time=16.9 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=41 ttl=49 time=16.8 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=42 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=43 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=44 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=45 ttl=49 time=16.3 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=46 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=47 ttl=49 time=16.2 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=48 ttl=49 time=16.5 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=49 ttl=49 time=16.6 ms
+64 bytes from cloudproxy10063.sucuri.net (192.124.249.63): icmp_seq=50 ttl=49 time=16.5 ms
+
+--- centralaz.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 49711ms
+rtt min/avg/max/mdev = 16.229/16.537/17.152/0.253 ms
+ping -c 50 centralaz.edu DONE
+PING gccaz.edu (199.83.131.140) 56(84) bytes of data.
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=1 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=2 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=3 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=4 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=5 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=6 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=7 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=8 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=9 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=10 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=11 ttl=48 time=106 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=12 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=13 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=14 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=15 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=16 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=17 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=18 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=19 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=20 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=21 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=22 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=23 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=24 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=25 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=26 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=27 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=28 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=29 ttl=48 time=106 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=30 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=31 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=32 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=33 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=34 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=35 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=36 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=37 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=38 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=39 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=40 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=41 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=42 ttl=48 time=105 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=43 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=44 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=45 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=46 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=47 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=48 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=49 ttl=48 time=104 ms
+64 bytes from 199.83.131.140.ip.incapdns.net (199.83.131.140): icmp_seq=50 ttl=48 time=104 ms
+
+--- gccaz.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49067ms
+rtt min/avg/max/mdev = 104.554/105.062/106.571/0.547 ms
+ping -c 50 gccaz.edu DONE
+PING gcu.edu (137.152.22.189) 56(84) bytes of data.
+
+--- gcu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49011ms
+
+ping -c 50 gcu.edu DONE
+PING maricopa.edu (45.60.11.248) 56(84) bytes of data.
+64 bytes from 45.60.11.248: icmp_seq=1 ttl=42 time=107 ms
+64 bytes from 45.60.11.248: icmp_seq=2 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=3 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=4 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=5 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=6 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=7 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=8 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=9 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=10 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=11 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=12 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=13 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=14 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=15 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=16 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=17 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=18 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=19 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=20 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=21 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=22 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=23 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=24 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=25 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=26 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=27 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=28 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=29 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=30 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=31 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=32 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=33 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=34 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=35 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=36 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=37 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=38 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=39 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=40 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=41 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=42 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=43 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=44 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=45 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=46 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=47 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=48 ttl=42 time=104 ms
+64 bytes from 45.60.11.248: icmp_seq=49 ttl=42 time=105 ms
+64 bytes from 45.60.11.248: icmp_seq=50 ttl=42 time=104 ms
+
+--- maricopa.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49017ms
+rtt min/avg/max/mdev = 104.724/105.070/107.448/0.511 ms
+ping -c 50 maricopa.edu DONE
+PING mesacc.edu (140.198.64.99) 56(84) bytes of data.
+
+--- mesacc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49016ms
+
+ping -c 50 mesacc.edu DONE
+PING nau.edu (198.90.22.157) 56(84) bytes of data.
+
+--- nau.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49393ms
+
+ping -c 50 nau.edu DONE
+PING npc.edu (23.185.0.1) 56(84) bytes of data.
+64 bytes from 23.185.0.1: icmp_seq=1 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=2 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=3 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=4 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=5 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=6 ttl=54 time=14.6 ms
+64 bytes from 23.185.0.1: icmp_seq=7 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=8 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=9 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=10 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=11 ttl=54 time=14.5 ms
+64 bytes from 23.185.0.1: icmp_seq=12 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=13 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.1: icmp_seq=14 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=15 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=16 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.1: icmp_seq=17 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=18 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=19 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=20 ttl=54 time=14.6 ms
+64 bytes from 23.185.0.1: icmp_seq=21 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=22 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.1: icmp_seq=23 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=24 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=25 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=26 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=27 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=28 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=29 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=30 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=31 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=32 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=33 ttl=54 time=14.5 ms
+64 bytes from 23.185.0.1: icmp_seq=34 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=35 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=36 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=37 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=38 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=39 ttl=54 time=14.7 ms
+64 bytes from 23.185.0.1: icmp_seq=40 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=41 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=42 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=43 ttl=54 time=14.0 ms
+64 bytes from 23.185.0.1: icmp_seq=44 ttl=54 time=14.2 ms
+64 bytes from 23.185.0.1: icmp_seq=45 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=46 ttl=54 time=14.7 ms
+64 bytes from 23.185.0.1: icmp_seq=47 ttl=54 time=14.3 ms
+64 bytes from 23.185.0.1: icmp_seq=48 ttl=54 time=14.1 ms
+64 bytes from 23.185.0.1: icmp_seq=49 ttl=54 time=14.4 ms
+64 bytes from 23.185.0.1: icmp_seq=50 ttl=54 time=14.1 ms
+
+--- npc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49035ms
+rtt min/avg/max/mdev = 14.058/14.290/14.788/0.212 ms
+ping -c 50 npc.edu DONE
+PING phoenix.edu (204.17.21.77) 56(84) bytes of data.
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=1 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=2 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=3 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=4 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=5 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=6 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=7 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=8 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=9 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=10 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=11 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=12 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=13 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=14 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=15 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=16 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=17 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=18 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=19 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=20 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=21 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=22 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=23 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=24 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=25 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=26 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=27 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=28 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=29 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=30 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=31 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=32 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=33 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=34 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=35 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=36 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=37 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=38 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=39 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=40 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=41 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=42 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=43 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=44 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=45 ttl=236 time=153 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=46 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=47 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=48 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=49 ttl=236 time=154 ms
+64 bytes from www.technology.phoenix.edu (204.17.21.77): icmp_seq=50 ttl=236 time=154 ms
+
+--- phoenix.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49057ms
+rtt min/avg/max/mdev = 153.952/154.212/154.780/0.353 ms
+ping -c 50 phoenix.edu DONE
+PING phoenix.edu (204.17.21.77) 56(84) bytes of data.
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=1 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=2 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=3 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=4 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=5 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=6 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=7 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=8 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=9 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=10 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=11 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=12 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=13 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=14 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=15 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=16 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=17 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=18 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=19 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=20 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=21 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=22 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=23 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=24 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=25 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=26 ttl=236 time=155 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=27 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=28 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=29 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=30 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=31 ttl=236 time=153 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=32 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=33 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=34 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=35 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=36 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=37 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=38 ttl=236 time=155 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=39 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=40 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=41 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=42 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=43 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=44 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=45 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=46 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=47 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=48 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=49 ttl=236 time=154 ms
+64 bytes from www.business.phoenix.edu (204.17.21.77): icmp_seq=50 ttl=236 time=153 ms
+
+--- phoenix.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49056ms
+rtt min/avg/max/mdev = 153.809/154.209/155.348/0.395 ms
+ping -c 50 phoenix.edu DONE
+PING pima.edu (144.90.136.19) 56(84) bytes of data.
+
+--- pima.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+
+ping -c 50 pima.edu DONE
+PING prescott.edu (67.60.213.79) 56(84) bytes of data.
+64 bytes from 67-60-213-79.cpe.sparklight.net (67.60.213.79): icmp_seq=1 ttl=45 time=166 ms
+64 bytes from 67-60-213-79.cpe.sparklight.net (67.60.213.79): icmp_seq=2 ttl=45 time=166 ms

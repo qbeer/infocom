@@ -3,7 +3,7 @@
 file=$1
 max_requests=$2
 
-directory=${1^^}
+directory=$3
 
 # read ips from file
 # and store it to an
