@@ -1,0 +1,10 @@
+PING csus.edu (130.86.9.189) 56(84) bytes of data.
+64 bytes from www.csus.edu (130.86.9.189): icmp_seq=1 ttl=231 time=306 ms
+64 bytes from www.csus.edu (130.86.9.189): icmp_seq=2 ttl=231 time=227 ms
+64 bytes from www.csus.edu (130.86.9.189): icmp_seq=3 ttl=231 time=250 ms
+64 bytes from www.csus.edu (130.86.9.189): icmp_seq=4 ttl=231 time=274 ms
+64 bytes from www.csus.edu (130.86.9.189): icmp_seq=5 ttl=231 time=297 ms
+
+--- csus.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 227.428/271.239/306.081/29.265 ms

@@ -1,0 +1,10 @@
+PING hampshire.edu (192.33.12.180) 56(84) bytes of data.
+64 bytes from eirene.hampshire.edu (192.33.12.180): icmp_seq=1 ttl=44 time=116 ms
+64 bytes from eirene.hampshire.edu (192.33.12.180): icmp_seq=2 ttl=44 time=117 ms
+64 bytes from eirene.hampshire.edu (192.33.12.180): icmp_seq=3 ttl=44 time=118 ms
+64 bytes from eirene.hampshire.edu (192.33.12.180): icmp_seq=4 ttl=44 time=221 ms
+64 bytes from eirene.hampshire.edu (192.33.12.180): icmp_seq=5 ttl=44 time=239 ms
+
+--- hampshire.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 116.649/162.614/239.604/55.621 ms

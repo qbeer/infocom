@@ -1,0 +1,10 @@
+PING latech.edu (138.47.18.212) 56(84) bytes of data.
+64 bytes from web-redirect.latech.edu (138.47.18.212): icmp_seq=1 ttl=42 time=151 ms
+64 bytes from web-redirect.latech.edu (138.47.18.212): icmp_seq=2 ttl=42 time=189 ms
+64 bytes from web-redirect.latech.edu (138.47.18.212): icmp_seq=3 ttl=42 time=151 ms
+64 bytes from web-redirect.latech.edu (138.47.18.212): icmp_seq=4 ttl=42 time=151 ms
+64 bytes from web-redirect.latech.edu (138.47.18.212): icmp_seq=5 ttl=42 time=151 ms
+
+--- latech.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 151.257/158.994/189.000/15.006 ms

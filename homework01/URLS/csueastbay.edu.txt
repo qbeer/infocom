@@ -1,0 +1,5 @@
+PING csueastbay.edu (134.154.136.39) 56(84) bytes of data.
+
+--- csueastbay.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4086ms
+

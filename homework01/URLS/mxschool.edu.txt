@@ -1,0 +1,10 @@
+PING mxschool.edu (104.28.26.7) 56(84) bytes of data.
+64 bytes from 104.28.26.7 (104.28.26.7): icmp_seq=1 ttl=55 time=2.92 ms
+64 bytes from 104.28.26.7 (104.28.26.7): icmp_seq=2 ttl=55 time=8.57 ms
+64 bytes from 104.28.26.7 (104.28.26.7): icmp_seq=3 ttl=55 time=3.34 ms
+64 bytes from 104.28.26.7 (104.28.26.7): icmp_seq=4 ttl=55 time=9.39 ms
+64 bytes from 104.28.26.7 (104.28.26.7): icmp_seq=5 ttl=55 time=4.67 ms
+
+--- mxschool.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.921/5.781/9.390/2.689 ms

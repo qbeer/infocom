@@ -1,0 +1,10 @@
+PING dom.edu (54.243.132.219) 56(84) bytes of data.
+64 bytes from ec2-54-243-132-219.compute-1.amazonaws.com (54.243.132.219): icmp_seq=1 ttl=41 time=114 ms
+64 bytes from ec2-54-243-132-219.compute-1.amazonaws.com (54.243.132.219): icmp_seq=2 ttl=41 time=172 ms
+64 bytes from ec2-54-243-132-219.compute-1.amazonaws.com (54.243.132.219): icmp_seq=3 ttl=41 time=114 ms
+64 bytes from ec2-54-243-132-219.compute-1.amazonaws.com (54.243.132.219): icmp_seq=4 ttl=41 time=113 ms
+64 bytes from ec2-54-243-132-219.compute-1.amazonaws.com (54.243.132.219): icmp_seq=5 ttl=41 time=138 ms
+
+--- dom.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 113.915/130.763/172.654/22.997 ms

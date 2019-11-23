@@ -1,0 +1,10 @@
+PING luc.edu (147.126.1.230) 56(84) bytes of data.
+64 bytes from luc.edu (147.126.1.230): icmp_seq=1 ttl=231 time=132 ms
+64 bytes from luc.edu (147.126.1.230): icmp_seq=2 ttl=231 time=131 ms
+64 bytes from luc.edu (147.126.1.230): icmp_seq=3 ttl=231 time=146 ms
+64 bytes from luc.edu (147.126.1.230): icmp_seq=4 ttl=231 time=175 ms
+64 bytes from luc.edu (147.126.1.230): icmp_seq=5 ttl=231 time=132 ms
+
+--- luc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 131.502/143.836/175.803/16.962 ms

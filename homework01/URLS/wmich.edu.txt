@@ -1,0 +1,10 @@
+PING wmich.edu (141.218.1.75) 56(84) bytes of data.
+64 bytes from www.wmich.edu (141.218.1.75): icmp_seq=1 ttl=233 time=176 ms
+64 bytes from www.wmich.edu (141.218.1.75): icmp_seq=2 ttl=233 time=202 ms
+64 bytes from www.wmich.edu (141.218.1.75): icmp_seq=3 ttl=233 time=130 ms
+64 bytes from www.wmich.edu (141.218.1.75): icmp_seq=4 ttl=233 time=150 ms
+64 bytes from www.wmich.edu (141.218.1.75): icmp_seq=5 ttl=233 time=137 ms
+
+--- wmich.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 130.125/159.604/202.943/26.746 ms

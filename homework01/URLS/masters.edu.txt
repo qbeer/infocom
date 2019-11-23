@@ -1,0 +1,10 @@
+PING masters.edu (104.198.14.52) 56(84) bytes of data.
+64 bytes from 52.14.198.104.bc.googleusercontent.com (104.198.14.52): icmp_seq=1 ttl=36 time=155 ms
+64 bytes from 52.14.198.104.bc.googleusercontent.com (104.198.14.52): icmp_seq=2 ttl=36 time=195 ms
+64 bytes from 52.14.198.104.bc.googleusercontent.com (104.198.14.52): icmp_seq=3 ttl=36 time=209 ms
+64 bytes from 52.14.198.104.bc.googleusercontent.com (104.198.14.52): icmp_seq=4 ttl=36 time=237 ms
+64 bytes from 52.14.198.104.bc.googleusercontent.com (104.198.14.52): icmp_seq=5 ttl=36 time=257 ms
+
+--- masters.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 155.845/211.398/257.679/35.073 ms

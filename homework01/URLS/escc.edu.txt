@@ -1,0 +1,10 @@
+PING escc.edu (67.227.190.199) 56(84) bytes of data.
+64 bytes from 67.227.190.199 (67.227.190.199): icmp_seq=1 ttl=37 time=131 ms
+64 bytes from 67.227.190.199 (67.227.190.199): icmp_seq=2 ttl=37 time=135 ms
+64 bytes from 67.227.190.199 (67.227.190.199): icmp_seq=3 ttl=37 time=213 ms
+64 bytes from 67.227.190.199 (67.227.190.199): icmp_seq=4 ttl=37 time=134 ms
+64 bytes from 67.227.190.199 (67.227.190.199): icmp_seq=5 ttl=37 time=132 ms
+
+--- escc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 131.795/149.501/213.229/31.897 ms

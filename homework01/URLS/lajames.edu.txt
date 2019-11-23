@@ -1,0 +1,10 @@
+PING lajames.edu (64.92.125.120) 56(84) bytes of data.
+64 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=1 ttl=46 time=208 ms
+64 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=2 ttl=46 time=162 ms
+64 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=3 ttl=46 time=134 ms
+64 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=4 ttl=46 time=235 ms
+64 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=5 ttl=46 time=264 ms
+
+--- lajames.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 11210ms
+rtt min/avg/max/mdev = 134.651/201.152/264.133/47.199 ms

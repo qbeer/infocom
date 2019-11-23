@@ -1,0 +1,10 @@
+PING murraystate.edu (216.249.159.7) 56(84) bytes of data.
+64 bytes from nathanstubblefield.com (216.249.159.7): icmp_seq=1 ttl=103 time=191 ms
+64 bytes from nathanstubblefield.com (216.249.159.7): icmp_seq=2 ttl=103 time=227 ms
+64 bytes from nathanstubblefield.com (216.249.159.7): icmp_seq=3 ttl=103 time=145 ms
+64 bytes from nathanstubblefield.com (216.249.159.7): icmp_seq=4 ttl=103 time=157 ms
+64 bytes from nathanstubblefield.com (216.249.159.7): icmp_seq=5 ttl=103 time=180 ms
+
+--- murraystate.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 145.688/180.325/227.108/28.486 ms

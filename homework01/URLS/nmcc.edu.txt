@@ -1,0 +1,10 @@
+PING nmcc.edu (172.104.25.123) 56(84) bytes of data.
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=1 ttl=51 time=144 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=2 ttl=51 time=123 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=3 ttl=51 time=112 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=4 ttl=51 time=113 ms
+64 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=5 ttl=51 time=113 ms
+
+--- nmcc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 112.796/121.817/144.966/12.287 ms

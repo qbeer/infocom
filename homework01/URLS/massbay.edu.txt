@@ -1,0 +1,10 @@
+PING massbay.edu (23.185.0.2) 56(84) bytes of data.
+64 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=1 ttl=53 time=19.4 ms
+64 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=2 ttl=53 time=23.3 ms
+64 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=3 ttl=53 time=16.9 ms
+64 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=4 ttl=53 time=17.6 ms
+64 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=5 ttl=53 time=16.6 ms
+
+--- massbay.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 16.669/18.796/23.325/2.463 ms

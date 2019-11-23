@@ -1,0 +1,10 @@
+PING westmont.edu (64.136.190.98) 56(84) bytes of data.
+64 bytes from ip190-98.outside.westmont.edu (64.136.190.98): icmp_seq=1 ttl=40 time=202 ms
+64 bytes from ip190-98.outside.westmont.edu (64.136.190.98): icmp_seq=2 ttl=40 time=207 ms
+64 bytes from ip190-98.outside.westmont.edu (64.136.190.98): icmp_seq=3 ttl=40 time=251 ms
+64 bytes from ip190-98.outside.westmont.edu (64.136.190.98): icmp_seq=4 ttl=40 time=271 ms
+64 bytes from ip190-98.outside.westmont.edu (64.136.190.98): icmp_seq=5 ttl=40 time=293 ms
+
+--- westmont.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 202.773/245.254/293.539/35.440 ms

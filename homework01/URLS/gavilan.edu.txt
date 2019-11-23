@@ -1,0 +1,10 @@
+PING gavilan.edu (207.62.201.80) 56(84) bytes of data.
+64 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=1 ttl=43 time=182 ms
+64 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=2 ttl=43 time=228 ms
+64 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=3 ttl=43 time=252 ms
+64 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=4 ttl=43 time=185 ms
+64 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=5 ttl=43 time=296 ms
+
+--- gavilan.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 182.953/229.301/296.447/42.753 ms

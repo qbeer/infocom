@@ -1,0 +1,10 @@
+PING ubalt.edu (204.52.129.211) 56(84) bytes of data.
+64 bytes from 204.52.129.211 (204.52.129.211): icmp_seq=1 ttl=235 time=130 ms
+64 bytes from 204.52.129.211 (204.52.129.211): icmp_seq=2 ttl=235 time=150 ms
+64 bytes from 204.52.129.211 (204.52.129.211): icmp_seq=3 ttl=235 time=175 ms
+64 bytes from 204.52.129.211 (204.52.129.211): icmp_seq=4 ttl=235 time=196 ms
+64 bytes from 204.52.129.211 (204.52.129.211): icmp_seq=5 ttl=235 time=217 ms
+
+--- ubalt.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 130.855/174.113/217.976/31.087 ms

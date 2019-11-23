@@ -1,0 +1,10 @@
+PING ccd.edu (23.185.0.3) 56(84) bytes of data.
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=1 ttl=53 time=16.1 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=2 ttl=53 time=20.7 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=3 ttl=53 time=20.9 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=4 ttl=53 time=17.7 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=5 ttl=53 time=76.1 ms
+
+--- ccd.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 16.158/30.350/76.114/22.954 ms

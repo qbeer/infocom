@@ -1,0 +1,10 @@
+PING ltu.edu (72.32.52.66) 56(84) bytes of data.
+64 bytes from 72.32.52.66 (72.32.52.66): icmp_seq=1 ttl=104 time=129 ms
+64 bytes from 72.32.52.66 (72.32.52.66): icmp_seq=2 ttl=104 time=131 ms
+64 bytes from 72.32.52.66 (72.32.52.66): icmp_seq=3 ttl=104 time=148 ms
+64 bytes from 72.32.52.66 (72.32.52.66): icmp_seq=4 ttl=104 time=171 ms
+64 bytes from 72.32.52.66 (72.32.52.66): icmp_seq=5 ttl=104 time=195 ms
+
+--- ltu.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 129.668/155.319/195.901/25.166 ms

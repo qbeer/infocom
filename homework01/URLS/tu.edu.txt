@@ -1,0 +1,10 @@
+PING tu.edu (162.241.208.36) 56(84) bytes of data.
+64 bytes from 162-241-208-36.unifiedlayer.com (162.241.208.36): icmp_seq=1 ttl=35 time=147 ms
+64 bytes from 162-241-208-36.unifiedlayer.com (162.241.208.36): icmp_seq=2 ttl=35 time=267 ms
+64 bytes from 162-241-208-36.unifiedlayer.com (162.241.208.36): icmp_seq=3 ttl=35 time=186 ms
+64 bytes from 162-241-208-36.unifiedlayer.com (162.241.208.36): icmp_seq=4 ttl=35 time=210 ms
+64 bytes from 162-241-208-36.unifiedlayer.com (162.241.208.36): icmp_seq=5 ttl=35 time=232 ms
+
+--- tu.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 147.069/208.655/267.253/40.668 ms

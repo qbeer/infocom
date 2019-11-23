@@ -1,0 +1,10 @@
+PING bc.edu (136.167.2.220) 56(84) bytes of data.
+64 bytes from www-prod.bc.edu (136.167.2.220): icmp_seq=1 ttl=236 time=121 ms
+64 bytes from www-prod.bc.edu (136.167.2.220): icmp_seq=2 ttl=236 time=218 ms
+64 bytes from www-prod.bc.edu (136.167.2.220): icmp_seq=3 ttl=236 time=138 ms
+64 bytes from www-prod.bc.edu (136.167.2.220): icmp_seq=4 ttl=236 time=114 ms
+64 bytes from www-prod.bc.edu (136.167.2.220): icmp_seq=5 ttl=236 time=184 ms
+
+--- bc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 114.980/155.434/218.380/39.690 ms

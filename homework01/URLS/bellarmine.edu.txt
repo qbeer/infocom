@@ -1,0 +1,10 @@
+PING bellarmine.edu (198.190.212.28) 56(84) bytes of data.
+64 bytes from apply.bellarmine.edu (198.190.212.28): icmp_seq=1 ttl=98 time=140 ms
+64 bytes from apply.bellarmine.edu (198.190.212.28): icmp_seq=2 ttl=98 time=185 ms
+64 bytes from apply.bellarmine.edu (198.190.212.28): icmp_seq=3 ttl=98 time=208 ms
+64 bytes from apply.bellarmine.edu (198.190.212.28): icmp_seq=4 ttl=98 time=230 ms
+64 bytes from apply.bellarmine.edu (198.190.212.28): icmp_seq=5 ttl=98 time=150 ms
+
+--- bellarmine.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 140.354/183.158/230.749/33.968 ms

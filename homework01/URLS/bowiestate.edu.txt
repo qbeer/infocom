@@ -1,0 +1,10 @@
+PING bowiestate.edu (131.118.190.62) 56(84) bytes of data.
+64 bytes from www.bowiestate.edu (131.118.190.62): icmp_seq=1 ttl=236 time=117 ms
+64 bytes from www.bowiestate.edu (131.118.190.62): icmp_seq=2 ttl=236 time=118 ms
+64 bytes from www.bowiestate.edu (131.118.190.62): icmp_seq=3 ttl=236 time=116 ms
+64 bytes from www.bowiestate.edu (131.118.190.62): icmp_seq=4 ttl=236 time=193 ms
+64 bytes from www.bowiestate.edu (131.118.190.62): icmp_seq=5 ttl=236 time=120 ms
+
+--- bowiestate.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 116.282/133.134/193.033/29.992 ms

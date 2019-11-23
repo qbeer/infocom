@@ -1,0 +1,10 @@
+PING garrett.edu (72.29.124.83) 56(84) bytes of data.
+64 bytes from 72-29-124-83.static.directrouter.com (72.29.124.83): icmp_seq=1 ttl=39 time=202 ms
+64 bytes from 72-29-124-83.static.directrouter.com (72.29.124.83): icmp_seq=2 ttl=39 time=131 ms
+64 bytes from 72-29-124-83.static.directrouter.com (72.29.124.83): icmp_seq=3 ttl=39 time=146 ms
+64 bytes from 72-29-124-83.static.directrouter.com (72.29.124.83): icmp_seq=4 ttl=39 time=130 ms
+64 bytes from 72-29-124-83.static.directrouter.com (72.29.124.83): icmp_seq=5 ttl=39 time=133 ms
+
+--- garrett.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 130.890/149.020/202.905/27.526 ms

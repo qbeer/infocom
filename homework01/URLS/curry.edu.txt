@@ -1,0 +1,10 @@
+PING curry.edu (184.154.210.195) 56(84) bytes of data.
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.195): icmp_seq=1 ttl=46 time=176 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.195): icmp_seq=2 ttl=46 time=121 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.195): icmp_seq=3 ttl=46 time=221 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.195): icmp_seq=4 ttl=46 time=141 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.195): icmp_seq=5 ttl=46 time=165 ms
+
+--- curry.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 121.416/165.412/221.234/33.875 ms

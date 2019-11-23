@@ -1,0 +1,10 @@
+PING kysu.edu (104.196.60.90) 56(84) bytes of data.
+64 bytes from 90.60.196.104.bc.googleusercontent.com (104.196.60.90): icmp_seq=1 ttl=52 time=114 ms
+64 bytes from 90.60.196.104.bc.googleusercontent.com (104.196.60.90): icmp_seq=2 ttl=52 time=124 ms
+64 bytes from 90.60.196.104.bc.googleusercontent.com (104.196.60.90): icmp_seq=3 ttl=52 time=117 ms
+64 bytes from 90.60.196.104.bc.googleusercontent.com (104.196.60.90): icmp_seq=4 ttl=52 time=126 ms
+64 bytes from 90.60.196.104.bc.googleusercontent.com (104.196.60.90): icmp_seq=5 ttl=52 time=191 ms
+
+--- kysu.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 114.054/134.835/191.098/28.503 ms

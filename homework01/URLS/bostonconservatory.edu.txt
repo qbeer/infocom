@@ -1,0 +1,10 @@
+PING bostonconservatory.edu (107.22.233.195) 56(84) bytes of data.
+64 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=1 ttl=41 time=109 ms
+64 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=2 ttl=41 time=111 ms
+64 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=3 ttl=41 time=109 ms
+64 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=4 ttl=41 time=142 ms
+64 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=5 ttl=41 time=164 ms
+
+--- bostonconservatory.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 109.211/127.678/164.913/22.457 ms

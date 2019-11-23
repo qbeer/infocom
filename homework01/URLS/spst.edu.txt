@@ -1,0 +1,10 @@
+PING spst.edu (104.131.214.92) 56(84) bytes of data.
+64 bytes from 104.131.214.92 (104.131.214.92): icmp_seq=1 ttl=46 time=115 ms
+64 bytes from 104.131.214.92 (104.131.214.92): icmp_seq=2 ttl=46 time=187 ms
+64 bytes from 104.131.214.92 (104.131.214.92): icmp_seq=3 ttl=46 time=220 ms
+64 bytes from 104.131.214.92 (104.131.214.92): icmp_seq=4 ttl=46 time=129 ms
+64 bytes from 104.131.214.92 (104.131.214.92): icmp_seq=5 ttl=46 time=152 ms
+
+--- spst.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 115.230/161.074/220.773/38.567 ms

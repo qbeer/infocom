@@ -1,0 +1,10 @@
+PING shawneecc.edu (184.106.55.132) 56(84) bytes of data.
+64 bytes from lb1-n01.wc1.lan3.stabletransit.com (184.106.55.132): icmp_seq=1 ttl=37 time=140 ms
+64 bytes from lb1-n01.wc1.lan3.stabletransit.com (184.106.55.132): icmp_seq=2 ttl=37 time=162 ms
+64 bytes from lb1-n01.wc1.lan3.stabletransit.com (184.106.55.132): icmp_seq=3 ttl=37 time=188 ms
+64 bytes from lb1-n01.wc1.lan3.stabletransit.com (184.106.55.132): icmp_seq=4 ttl=37 time=211 ms
+64 bytes from lb1-n01.wc1.lan3.stabletransit.com (184.106.55.132): icmp_seq=5 ttl=37 time=133 ms
+
+--- shawneecc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 133.905/167.460/211.890/29.281 ms

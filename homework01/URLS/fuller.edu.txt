@@ -1,0 +1,10 @@
+PING fuller.edu (45.56.125.171) 56(84) bytes of data.
+64 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=1 ttl=46 time=203 ms
+64 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=2 ttl=46 time=143 ms
+64 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=3 ttl=46 time=257 ms
+64 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=4 ttl=46 time=153 ms
+64 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=5 ttl=46 time=196 ms
+
+--- fuller.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 143.559/190.913/257.417/40.700 ms

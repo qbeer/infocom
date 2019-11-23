@@ -1,0 +1,10 @@
+PING nbss.edu (50.56.64.4) 56(84) bytes of data.
+64 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=1 ttl=108 time=173 ms
+64 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=2 ttl=108 time=197 ms
+64 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=3 ttl=108 time=221 ms
+64 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=4 ttl=108 time=142 ms
+64 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=5 ttl=108 time=165 ms
+
+--- nbss.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 142.547/180.175/221.503/27.099 ms

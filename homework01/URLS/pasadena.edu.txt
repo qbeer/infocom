@@ -1,0 +1,5 @@
+PING pasadena.edu (34.215.99.89) 56(84) bytes of data.
+
+--- pasadena.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4080ms
+

@@ -1,0 +1,10 @@
+PING lakeviewcol.edu (69.163.177.236) 56(84) bytes of data.
+64 bytes from ps582236.dreamhost.com (69.163.177.236): icmp_seq=1 ttl=44 time=154 ms
+64 bytes from ps582236.dreamhost.com (69.163.177.236): icmp_seq=2 ttl=44 time=229 ms
+64 bytes from ps582236.dreamhost.com (69.163.177.236): icmp_seq=3 ttl=44 time=154 ms
+64 bytes from ps582236.dreamhost.com (69.163.177.236): icmp_seq=4 ttl=44 time=154 ms
+64 bytes from ps582236.dreamhost.com (69.163.177.236): icmp_seq=5 ttl=44 time=299 ms
+
+--- lakeviewcol.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 154.461/198.641/299.598/58.319 ms

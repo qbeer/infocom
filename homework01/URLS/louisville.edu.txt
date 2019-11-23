@@ -1,0 +1,10 @@
+PING louisville.edu (136.165.238.241) 56(84) bytes of data.
+64 bytes from louisville.edu (136.165.238.241): icmp_seq=1 ttl=41 time=161 ms
+64 bytes from louisville.edu (136.165.238.241): icmp_seq=2 ttl=41 time=183 ms
+64 bytes from louisville.edu (136.165.238.241): icmp_seq=3 ttl=41 time=139 ms
+64 bytes from louisville.edu (136.165.238.241): icmp_seq=4 ttl=41 time=141 ms
+64 bytes from louisville.edu (136.165.238.241): icmp_seq=5 ttl=41 time=138 ms
+
+--- louisville.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 138.980/153.041/183.744/17.605 ms

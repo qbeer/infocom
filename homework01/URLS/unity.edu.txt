@@ -1,0 +1,10 @@
+PING unity.edu (35.185.11.238) 56(84) bytes of data.
+64 bytes from 238.11.185.35.bc.googleusercontent.com (35.185.11.238): icmp_seq=1 ttl=52 time=114 ms
+64 bytes from 238.11.185.35.bc.googleusercontent.com (35.185.11.238): icmp_seq=2 ttl=52 time=160 ms
+64 bytes from 238.11.185.35.bc.googleusercontent.com (35.185.11.238): icmp_seq=3 ttl=52 time=116 ms
+64 bytes from 238.11.185.35.bc.googleusercontent.com (35.185.11.238): icmp_seq=4 ttl=52 time=206 ms
+64 bytes from 238.11.185.35.bc.googleusercontent.com (35.185.11.238): icmp_seq=5 ttl=52 time=125 ms
+
+--- unity.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 114.418/144.728/206.713/35.192 ms

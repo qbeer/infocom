@@ -1,0 +1,10 @@
+PING gordonconwell.edu (104.31.87.209) 56(84) bytes of data.
+64 bytes from 104.31.87.209 (104.31.87.209): icmp_seq=1 ttl=55 time=3.81 ms
+64 bytes from 104.31.87.209 (104.31.87.209): icmp_seq=2 ttl=55 time=3.86 ms
+64 bytes from 104.31.87.209 (104.31.87.209): icmp_seq=3 ttl=55 time=105 ms
+64 bytes from 104.31.87.209 (104.31.87.209): icmp_seq=4 ttl=55 time=3.41 ms
+64 bytes from 104.31.87.209 (104.31.87.209): icmp_seq=5 ttl=55 time=5.03 ms
+
+--- gordonconwell.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 3.415/24.223/105.000/40.392 ms

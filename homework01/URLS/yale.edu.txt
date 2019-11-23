@@ -1,0 +1,10 @@
+PING yale.edu (104.16.242.46) 56(84) bytes of data.
+64 bytes from 104.16.242.46 (104.16.242.46): icmp_seq=1 ttl=55 time=4.55 ms
+64 bytes from 104.16.242.46 (104.16.242.46): icmp_seq=2 ttl=55 time=4.61 ms
+64 bytes from 104.16.242.46 (104.16.242.46): icmp_seq=3 ttl=55 time=3.36 ms
+64 bytes from 104.16.242.46 (104.16.242.46): icmp_seq=4 ttl=55 time=2.80 ms
+64 bytes from 104.16.242.46 (104.16.242.46): icmp_seq=5 ttl=55 time=2.72 ms
+
+--- yale.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 2.726/3.614/4.619/0.826 ms

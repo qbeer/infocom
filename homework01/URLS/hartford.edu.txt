@@ -1,0 +1,10 @@
+PING hartford.edu (104.153.197.95) 56(84) bytes of data.
+64 bytes from 104-153-197-95.customer.totaluptime.net (104.153.197.95): icmp_seq=1 ttl=237 time=33.5 ms
+64 bytes from 104-153-197-95.customer.totaluptime.net (104.153.197.95): icmp_seq=2 ttl=237 time=33.7 ms
+64 bytes from 104-153-197-95.customer.totaluptime.net (104.153.197.95): icmp_seq=3 ttl=237 time=43.9 ms
+64 bytes from 104-153-197-95.customer.totaluptime.net (104.153.197.95): icmp_seq=4 ttl=237 time=34.1 ms
+64 bytes from 104-153-197-95.customer.totaluptime.net (104.153.197.95): icmp_seq=5 ttl=237 time=40.9 ms
+
+--- hartford.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 33.505/37.257/43.998/4.356 ms

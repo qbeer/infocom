@@ -1,0 +1,10 @@
+PING uab.edu (198.73.7.192) 56(84) bytes of data.
+64 bytes from 198.73.7.192 (198.73.7.192): icmp_seq=1 ttl=38 time=123 ms
+64 bytes from 198.73.7.192 (198.73.7.192): icmp_seq=2 ttl=38 time=122 ms
+64 bytes from 198.73.7.192 (198.73.7.192): icmp_seq=3 ttl=38 time=125 ms
+64 bytes from 198.73.7.192 (198.73.7.192): icmp_seq=4 ttl=38 time=121 ms
+64 bytes from 198.73.7.192 (198.73.7.192): icmp_seq=5 ttl=38 time=122 ms
+
+--- uab.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 13136ms
+rtt min/avg/max/mdev = 121.804/123.022/125.534/1.433 ms

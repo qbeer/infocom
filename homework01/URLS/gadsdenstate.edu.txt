@@ -1,0 +1,10 @@
+PING gadsdenstate.edu (161.47.152.53) 56(84) bytes of data.
+64 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=1 ttl=108 time=123 ms
+64 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=2 ttl=108 time=125 ms
+64 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=3 ttl=108 time=212 ms
+64 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=4 ttl=108 time=121 ms
+64 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=5 ttl=108 time=123 ms
+
+--- gadsdenstate.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 121.815/141.438/212.973/35.786 ms

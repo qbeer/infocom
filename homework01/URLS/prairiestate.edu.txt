@@ -1,0 +1,10 @@
+PING prairiestate.edu (69.14.197.38) 56(84) bytes of data.
+64 bytes from d14-69-38-197.try.wideopenwest.com (69.14.197.38): icmp_seq=1 ttl=43 time=134 ms
+64 bytes from d14-69-38-197.try.wideopenwest.com (69.14.197.38): icmp_seq=2 ttl=43 time=138 ms
+64 bytes from d14-69-38-197.try.wideopenwest.com (69.14.197.38): icmp_seq=3 ttl=43 time=147 ms
+64 bytes from d14-69-38-197.try.wideopenwest.com (69.14.197.38): icmp_seq=4 ttl=43 time=131 ms
+64 bytes from d14-69-38-197.try.wideopenwest.com (69.14.197.38): icmp_seq=5 ttl=43 time=192 ms
+
+--- prairiestate.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 131.618/148.911/192.184/22.266 ms

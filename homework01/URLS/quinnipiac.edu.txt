@@ -1,0 +1,10 @@
+PING quinnipiac.edu (192.152.243.60) 56(84) bytes of data.
+64 bytes from www.quinnipiac.edu (192.152.243.60): icmp_seq=1 ttl=43 time=201 ms
+64 bytes from www.quinnipiac.edu (192.152.243.60): icmp_seq=2 ttl=43 time=324 ms
+64 bytes from www.quinnipiac.edu (192.152.243.60): icmp_seq=3 ttl=43 time=150 ms
+64 bytes from www.quinnipiac.edu (192.152.243.60): icmp_seq=4 ttl=43 time=106 ms
+64 bytes from www.quinnipiac.edu (192.152.243.60): icmp_seq=5 ttl=43 time=108 ms
+
+--- quinnipiac.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 106.300/178.278/324.672/80.918 ms

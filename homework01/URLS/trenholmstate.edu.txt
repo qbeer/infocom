@@ -1,0 +1,10 @@
+PING trenholmstate.edu (70.32.95.82) 56(84) bytes of data.
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=1 ttl=46 time=106 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=2 ttl=46 time=128 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=3 ttl=46 time=104 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=4 ttl=46 time=120 ms
+64 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=5 ttl=46 time=107 ms
+
+--- trenholmstate.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 104.722/113.301/128.259/9.300 ms

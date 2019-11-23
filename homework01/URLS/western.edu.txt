@@ -1,0 +1,10 @@
+PING western.edu (23.185.0.3) 56(84) bytes of data.
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=1 ttl=53 time=16.9 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=2 ttl=53 time=20.7 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=3 ttl=53 time=18.2 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=4 ttl=53 time=24.6 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=5 ttl=53 time=18.5 ms
+
+--- western.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 16.917/19.812/24.625/2.696 ms

@@ -1,0 +1,10 @@
+PING uafs.edu (107.21.104.61) 56(84) bytes of data.
+64 bytes from ec2-107-21-104-61.compute-1.amazonaws.com (107.21.104.61): icmp_seq=1 ttl=41 time=160 ms
+64 bytes from ec2-107-21-104-61.compute-1.amazonaws.com (107.21.104.61): icmp_seq=2 ttl=41 time=111 ms
+64 bytes from ec2-107-21-104-61.compute-1.amazonaws.com (107.21.104.61): icmp_seq=3 ttl=41 time=110 ms
+64 bytes from ec2-107-21-104-61.compute-1.amazonaws.com (107.21.104.61): icmp_seq=4 ttl=41 time=110 ms
+64 bytes from ec2-107-21-104-61.compute-1.amazonaws.com (107.21.104.61): icmp_seq=5 ttl=41 time=111 ms
+
+--- uafs.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 110.316/120.943/160.783/19.928 ms

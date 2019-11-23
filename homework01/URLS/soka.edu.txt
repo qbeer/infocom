@@ -1,0 +1,5 @@
+PING soka.edu (199.16.253.4) 56(84) bytes of data.
+
+--- soka.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4079ms
+

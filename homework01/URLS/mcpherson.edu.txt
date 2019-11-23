@@ -1,0 +1,10 @@
+PING mcpherson.edu (104.197.169.161) 56(84) bytes of data.
+64 bytes from 161.169.197.104.bc.googleusercontent.com (104.197.169.161): icmp_seq=1 ttl=49 time=166 ms
+64 bytes from 161.169.197.104.bc.googleusercontent.com (104.197.169.161): icmp_seq=2 ttl=49 time=189 ms
+64 bytes from 161.169.197.104.bc.googleusercontent.com (104.197.169.161): icmp_seq=3 ttl=49 time=123 ms
+64 bytes from 161.169.197.104.bc.googleusercontent.com (104.197.169.161): icmp_seq=4 ttl=49 time=131 ms
+64 bytes from 161.169.197.104.bc.googleusercontent.com (104.197.169.161): icmp_seq=5 ttl=49 time=153 ms
+
+--- mcpherson.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 123.811/153.056/189.401/23.731 ms

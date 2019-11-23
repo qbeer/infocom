@@ -1,0 +1,10 @@
+PING washburnlaw.edu (198.252.9.2) 56(84) bytes of data.
+64 bytes from washburnlaw.edu (198.252.9.2): icmp_seq=1 ttl=105 time=143 ms
+64 bytes from washburnlaw.edu (198.252.9.2): icmp_seq=2 ttl=105 time=143 ms
+64 bytes from washburnlaw.edu (198.252.9.2): icmp_seq=3 ttl=105 time=235 ms
+64 bytes from washburnlaw.edu (198.252.9.2): icmp_seq=4 ttl=105 time=157 ms
+64 bytes from washburnlaw.edu (198.252.9.2): icmp_seq=5 ttl=105 time=145 ms
+
+--- washburnlaw.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 143.269/165.246/235.982/35.730 ms

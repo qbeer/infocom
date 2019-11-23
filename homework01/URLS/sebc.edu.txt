@@ -1,0 +1,10 @@
+PING sebc.edu (35.190.174.218) 56(84) bytes of data.
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=1 ttl=51 time=114 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=2 ttl=51 time=165 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=3 ttl=51 time=114 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=4 ttl=51 time=193 ms
+64 bytes from 218.174.190.35.bc.googleusercontent.com (35.190.174.218): icmp_seq=5 ttl=51 time=115 ms
+
+--- sebc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 114.086/140.536/193.634/33.121 ms

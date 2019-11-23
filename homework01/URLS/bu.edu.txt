@@ -1,0 +1,5 @@
+PING bu.edu (128.197.236.4) 56(84) bytes of data.
+
+--- bu.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4086ms
+

@@ -1,0 +1,10 @@
+PING asbury.edu (148.59.183.132) 56(84) bytes of data.
+64 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=1 ttl=41 time=160 ms
+64 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=2 ttl=41 time=247 ms
+64 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=3 ttl=41 time=140 ms
+64 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=4 ttl=41 time=140 ms
+64 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=5 ttl=41 time=146 ms
+
+--- asbury.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 140.223/167.162/247.672/40.936 ms

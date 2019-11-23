@@ -1,0 +1,10 @@
+PING hillsdale.edu (104.25.96.29) 56(84) bytes of data.
+64 bytes from 104.25.96.29 (104.25.96.29): icmp_seq=1 ttl=55 time=3.35 ms
+64 bytes from 104.25.96.29 (104.25.96.29): icmp_seq=2 ttl=55 time=3.32 ms
+64 bytes from 104.25.96.29 (104.25.96.29): icmp_seq=3 ttl=55 time=3.18 ms
+64 bytes from 104.25.96.29 (104.25.96.29): icmp_seq=4 ttl=55 time=3.21 ms
+64 bytes from 104.25.96.29 (104.25.96.29): icmp_seq=5 ttl=55 time=5.52 ms
+
+--- hillsdale.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 3.181/3.720/5.521/0.905 ms

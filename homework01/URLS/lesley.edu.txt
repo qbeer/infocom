@@ -1,0 +1,9 @@
+PING lesley.edu (52.87.65.167) 56(84) bytes of data.
+64 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=1 ttl=41 time=111 ms
+64 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=2 ttl=41 time=125 ms
+64 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=4 ttl=41 time=120 ms
+64 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=5 ttl=41 time=253 ms
+
+--- lesley.edu ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4028ms
+rtt min/avg/max/mdev = 111.165/152.617/253.144/58.270 ms

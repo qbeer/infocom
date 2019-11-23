@@ -1,0 +1,9 @@
+PING cambridge.edu (64.207.185.201) 56(84) bytes of data.
+64 bytes from n8tx-jkwm.accessdomain.com (64.207.185.201): icmp_seq=1 ttl=46 time=203 ms
+64 bytes from n8tx-jkwm.accessdomain.com (64.207.185.201): icmp_seq=2 ttl=46 time=123 ms
+64 bytes from n8tx-jkwm.accessdomain.com (64.207.185.201): icmp_seq=4 ttl=46 time=111 ms
+64 bytes from n8tx-jkwm.accessdomain.com (64.207.185.201): icmp_seq=5 ttl=46 time=109 ms
+
+--- cambridge.edu ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4008ms
+rtt min/avg/max/mdev = 109.499/137.056/203.350/38.635 ms

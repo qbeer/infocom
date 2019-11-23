@@ -1,0 +1,10 @@
+PING knox.edu (184.154.210.202) 56(84) bytes of data.
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.202): icmp_seq=1 ttl=46 time=120 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.202): icmp_seq=2 ttl=46 time=126 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.202): icmp_seq=3 ttl=46 time=133 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.202): icmp_seq=4 ttl=46 time=124 ms
+64 bytes from cASA5515x-1.chi.ingeniux.com (184.154.210.202): icmp_seq=5 ttl=46 time=121 ms
+
+--- knox.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 120.939/125.543/133.696/4.672 ms

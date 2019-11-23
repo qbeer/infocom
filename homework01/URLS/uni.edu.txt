@@ -1,0 +1,10 @@
+PING uni.edu (134.161.7.207) 56(84) bytes of data.
+64 bytes from distance.uni.edu (134.161.7.207): icmp_seq=1 ttl=236 time=143 ms
+64 bytes from distance.uni.edu (134.161.7.207): icmp_seq=2 ttl=236 time=226 ms
+64 bytes from distance.uni.edu (134.161.7.207): icmp_seq=3 ttl=236 time=142 ms
+64 bytes from distance.uni.edu (134.161.7.207): icmp_seq=4 ttl=236 time=167 ms
+64 bytes from distance.uni.edu (134.161.7.207): icmp_seq=5 ttl=236 time=190 ms
+
+--- uni.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 142.856/174.521/226.892/31.611 ms

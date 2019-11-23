@@ -1,0 +1,10 @@
+PING monroeccc.edu (192.196.158.187) 56(84) bytes of data.
+64 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=1 ttl=44 time=112 ms
+64 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=2 ttl=44 time=130 ms
+64 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=3 ttl=44 time=112 ms
+64 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=4 ttl=44 time=169 ms
+64 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=5 ttl=44 time=190 ms
+
+--- monroeccc.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 112.009/143.098/190.873/31.791 ms

@@ -1,0 +1,10 @@
+PING emerson.edu (23.185.0.3) 56(84) bytes of data.
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=1 ttl=53 time=19.4 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=2 ttl=53 time=21.3 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=3 ttl=53 time=16.8 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=4 ttl=53 time=26.4 ms
+64 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=5 ttl=53 time=16.5 ms
+
+--- emerson.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 16.596/20.133/26.412/3.599 ms

@@ -1,0 +1,10 @@
+PING athens.edu (198.1.73.76) 56(84) bytes of data.
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=1 ttl=42 time=237 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=2 ttl=42 time=179 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=3 ttl=42 time=179 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=4 ttl=42 time=182 ms
+64 bytes from mail.myathens.org (198.1.73.76): icmp_seq=5 ttl=42 time=181 ms
+
+--- athens.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 179.519/192.186/237.571/22.724 ms

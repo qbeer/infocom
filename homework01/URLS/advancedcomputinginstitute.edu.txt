@@ -1,0 +1,10 @@
+PING advancedcomputinginstitute.edu (208.113.161.216) 56(84) bytes of data.
+64 bytes from apache2-whippit.new-kent.dreamhost.com (208.113.161.216): icmp_seq=1 ttl=42 time=108 ms
+64 bytes from apache2-whippit.new-kent.dreamhost.com (208.113.161.216): icmp_seq=2 ttl=42 time=157 ms
+64 bytes from apache2-whippit.new-kent.dreamhost.com (208.113.161.216): icmp_seq=3 ttl=42 time=101 ms
+64 bytes from apache2-whippit.new-kent.dreamhost.com (208.113.161.216): icmp_seq=4 ttl=42 time=265 ms
+64 bytes from apache2-whippit.new-kent.dreamhost.com (208.113.161.216): icmp_seq=5 ttl=42 time=194 ms
+
+--- advancedcomputinginstitute.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 101.853/165.481/265.720/60.467 ms

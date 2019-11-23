@@ -1,0 +1,10 @@
+PING mainemaritime.edu (209.222.220.80) 56(84) bytes of data.
+64 bytes from Webster.mma.edu (209.222.220.80): icmp_seq=1 ttl=106 time=126 ms
+64 bytes from Webster.mma.edu (209.222.220.80): icmp_seq=2 ttl=106 time=127 ms
+64 bytes from Webster.mma.edu (209.222.220.80): icmp_seq=3 ttl=106 time=148 ms
+64 bytes from Webster.mma.edu (209.222.220.80): icmp_seq=4 ttl=106 time=172 ms
+64 bytes from Webster.mma.edu (209.222.220.80): icmp_seq=5 ttl=106 time=198 ms
+
+--- mainemaritime.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 126.093/154.392/198.569/27.733 ms

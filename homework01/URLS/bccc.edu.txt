@@ -1,0 +1,5 @@
+PING bccc.edu (52.206.191.232) 56(84) bytes of data.
+
+--- bccc.edu ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4092ms
+
