@@ -1,0 +1,24 @@
++------+--------+---------------------------------------------------------------------------------+--------------------------------------------------------+------+------+-------+
+| Rank | ID     | Title                                                                           | Author                                                 | Year | Cite | Cited |
++------+--------+---------------------------------------------------------------------------------+--------------------------------------------------------+------+------+-------+
+| 1    | 453387 | Introduction to algorithms                                                      | Thomas T. Cormen,Charles E. Leiserson,Ronald L. Rivest | 1990 | 0    | 816   |
+| 2    | 246511 | Simulation Modeling and Analysis, 2nd edition                                   | Averill M. Law,W. David Kelton                         | 1997 | 0    | 442   |
+| 3    | 586607 | The nature of statistical learning theory                                       | Vladimir N. Vapnik                                     | 1995 | 0    | 553   |
+| 4    | 81323  | The art of computer programming, volume 2 (3rd ed.): seminumerical algorithms   | Donald E. Knuth                                        | 1997 | 0    | 504   |
+| 5    | 79620  | The art of computer programming, volume 1 (3rd ed.): fundamental algorithms     | Donald E. Knuth                                        | 1997 | 0    | 522   |
+| 6    | 214951 | C4.5: programs for machine learning                                             | J. Ross Quinlan                                        | 1993 | 0    | 648   |
+| 7    | 326368 | A relational model of data for large shared data banks                          | E. F. Codd                                             | 1970 | 2    | 566   |
+| 8    | 162585 | Compilers: principles, techniques, and tools                                    | Alfred V. Aho,Ravi Sethi,Jeffrey D. Ullman             | 1986 | 0    | 791   |
+| 9    | 311413 | Pattern Classification (2nd Edition)                                            | Richard O. Duda,Peter E. Hart,David G. Stork           | 2000 | 0    | 524   |
+| 10   | 517247 | Adaptation in natural and artificial systems                                    | John H. Holland                                        | 1992 | 0    | 466   |
+| 11   | 455254 | Probabilistic reasoning in intelligent systems: networks of plausible inference | Judea Pearl                                            | 1988 | 0    | 480   |
+| 12   | 178287 | Graph-Based Algorithms for Boolean Function Manipulation                        | Randal E. Bryant                                       | 1986 | 0    | 459   |
+| 13   | 327827 | A method for obtaining digital signatures and public-key cryptosystems          | R. L. Rivest,A. Shamir,L. Adleman                      | 1978 | 3    | 366   |
+| 14   | 231782 | Introduction to Reinforcement Learning, 1st edition                             | Richard S. Sutton,Andrew G. Barto                      | 1998 | 0    | 329   |
+| 15   | 151297 | Smalltalk-80: the language and its implementation                               | Adele Goldberg,David Robson                            | 1983 | 0    | 588   |
+| 16   | 144427 | Computational geometry: an introduction                                         | Franco P. Preparata,Michael I. Shamos                  | 1985 | 0    | 484   |
+| 17   | 319217 | Time, clocks, and the ordering of events in a distributed system                | Leslie Lamport                                         | 1978 | 0    | 560   |
+| 18   | 616075 | Machine Learning, 1 edition                                                     | Thomas M. Mitchell                                     | 1997 | 0    | 363   |
+| 19   | 250081 | Modern Information Retrieval                                                    | Ricardo A. Baeza-Yates,Berthier Ribeiro-Neto           | 1999 | 0    | 377   |
+| 20   | 162995 | Data networks                                                                   | Dimitri Bertsekas,Robert Gallager                      | 1987 | 0    | 264   |
++------+--------+---------------------------------------------------------------------------------+--------------------------------------------------------+------+------+-------+
