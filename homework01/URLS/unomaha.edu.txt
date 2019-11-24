@@ -1,0 +1,5 @@
+PING unomaha.edu (137.48.1.231) 56(84) bytes of data.
+
+--- unomaha.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+

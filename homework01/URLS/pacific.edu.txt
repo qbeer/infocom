@@ -1,0 +1,5 @@
+PING pacific.edu (34.210.252.224) 56(84) bytes of data.
+
+--- pacific.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+

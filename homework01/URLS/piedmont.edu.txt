@@ -1,0 +1,5 @@
+PING piedmont.edu (204.126.179.0) 56(84) bytes of data.
+
+--- piedmont.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+

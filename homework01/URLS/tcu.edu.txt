@@ -1,0 +1,5 @@
+PING tcu.edu (69.63.129.55) 56(84) bytes of data.
+
+--- tcu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49390ms
+

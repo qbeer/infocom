@@ -1,0 +1,55 @@
+PING keuka.edu (104.26.6.233) 56(84) bytes of data.
+64 bytes from 104.26.6.233: icmp_seq=1 ttl=56 time=1.00 ms
+64 bytes from 104.26.6.233: icmp_seq=2 ttl=56 time=0.794 ms
+64 bytes from 104.26.6.233: icmp_seq=3 ttl=56 time=1.33 ms
+64 bytes from 104.26.6.233: icmp_seq=4 ttl=56 time=1.40 ms
+64 bytes from 104.26.6.233: icmp_seq=5 ttl=56 time=1.55 ms
+64 bytes from 104.26.6.233: icmp_seq=6 ttl=56 time=1.12 ms
+64 bytes from 104.26.6.233: icmp_seq=7 ttl=56 time=1.35 ms
+64 bytes from 104.26.6.233: icmp_seq=8 ttl=56 time=1.11 ms
+64 bytes from 104.26.6.233: icmp_seq=9 ttl=56 time=1.12 ms
+64 bytes from 104.26.6.233: icmp_seq=10 ttl=56 time=1.17 ms
+64 bytes from 104.26.6.233: icmp_seq=11 ttl=56 time=0.827 ms
+64 bytes from 104.26.6.233: icmp_seq=12 ttl=56 time=1.40 ms
+64 bytes from 104.26.6.233: icmp_seq=13 ttl=56 time=1.69 ms
+64 bytes from 104.26.6.233: icmp_seq=14 ttl=56 time=0.804 ms
+64 bytes from 104.26.6.233: icmp_seq=15 ttl=56 time=1.10 ms
+64 bytes from 104.26.6.233: icmp_seq=16 ttl=56 time=1.17 ms
+64 bytes from 104.26.6.233: icmp_seq=17 ttl=56 time=1.18 ms
+64 bytes from 104.26.6.233: icmp_seq=18 ttl=56 time=1.07 ms
+64 bytes from 104.26.6.233: icmp_seq=19 ttl=56 time=0.898 ms
+64 bytes from 104.26.6.233: icmp_seq=20 ttl=56 time=1.17 ms
+64 bytes from 104.26.6.233: icmp_seq=21 ttl=56 time=0.896 ms
+64 bytes from 104.26.6.233: icmp_seq=22 ttl=56 time=5.38 ms
+64 bytes from 104.26.6.233: icmp_seq=23 ttl=56 time=1.69 ms
+64 bytes from 104.26.6.233: icmp_seq=24 ttl=56 time=0.885 ms
+64 bytes from 104.26.6.233: icmp_seq=25 ttl=56 time=1.21 ms
+64 bytes from 104.26.6.233: icmp_seq=26 ttl=56 time=1.14 ms
+64 bytes from 104.26.6.233: icmp_seq=27 ttl=56 time=2.87 ms
+64 bytes from 104.26.6.233: icmp_seq=28 ttl=56 time=1.21 ms
+64 bytes from 104.26.6.233: icmp_seq=29 ttl=56 time=1.10 ms
+64 bytes from 104.26.6.233: icmp_seq=30 ttl=56 time=1.12 ms
+64 bytes from 104.26.6.233: icmp_seq=31 ttl=56 time=1.34 ms
+64 bytes from 104.26.6.233: icmp_seq=32 ttl=56 time=1.13 ms
+64 bytes from 104.26.6.233: icmp_seq=33 ttl=56 time=1.14 ms
+64 bytes from 104.26.6.233: icmp_seq=34 ttl=56 time=0.868 ms
+64 bytes from 104.26.6.233: icmp_seq=35 ttl=56 time=1.07 ms
+64 bytes from 104.26.6.233: icmp_seq=36 ttl=56 time=1.02 ms
+64 bytes from 104.26.6.233: icmp_seq=37 ttl=56 time=1.36 ms
+64 bytes from 104.26.6.233: icmp_seq=38 ttl=56 time=1.14 ms
+64 bytes from 104.26.6.233: icmp_seq=39 ttl=56 time=1.11 ms
+64 bytes from 104.26.6.233: icmp_seq=40 ttl=56 time=1.64 ms
+64 bytes from 104.26.6.233: icmp_seq=41 ttl=56 time=1.09 ms
+64 bytes from 104.26.6.233: icmp_seq=42 ttl=56 time=0.902 ms
+64 bytes from 104.26.6.233: icmp_seq=43 ttl=56 time=1.19 ms
+64 bytes from 104.26.6.233: icmp_seq=44 ttl=56 time=1.34 ms
+64 bytes from 104.26.6.233: icmp_seq=45 ttl=56 time=1.15 ms
+64 bytes from 104.26.6.233: icmp_seq=46 ttl=56 time=1.11 ms
+64 bytes from 104.26.6.233: icmp_seq=47 ttl=56 time=1.13 ms
+64 bytes from 104.26.6.233: icmp_seq=48 ttl=56 time=1.17 ms
+64 bytes from 104.26.6.233: icmp_seq=49 ttl=56 time=1.16 ms
+64 bytes from 104.26.6.233: icmp_seq=50 ttl=56 time=0.758 ms
+
+--- keuka.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49052ms
+rtt min/avg/max/mdev = 0.758/1.275/5.380/0.669 ms

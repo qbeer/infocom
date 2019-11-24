@@ -1,0 +1,5 @@
+PING meridiantech.edu (164.58.131.7) 56(84) bytes of data.
+
+--- meridiantech.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+

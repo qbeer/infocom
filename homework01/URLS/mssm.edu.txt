@@ -1,0 +1,18 @@
+PING mssm.edu (146.203.139.18) 56(84) bytes of data.
+From 12.89.215.206 icmp_seq=2 Packet filtered
+From 12.89.215.206 icmp_seq=4 Packet filtered
+From 12.89.215.206 icmp_seq=7 Packet filtered
+From 12.89.215.206 icmp_seq=11 Packet filtered
+From 12.89.215.206 icmp_seq=13 Packet filtered
+From 12.89.215.206 icmp_seq=15 Packet filtered
+From 12.89.215.206 icmp_seq=19 Packet filtered
+From 12.89.215.206 icmp_seq=23 Packet filtered
+From 12.89.215.206 icmp_seq=24 Packet filtered
+From 12.89.215.206 icmp_seq=32 Packet filtered
+From 12.89.215.206 icmp_seq=37 Packet filtered
+From 12.89.215.206 icmp_seq=41 Packet filtered
+From 12.89.215.206 icmp_seq=49 Packet filtered
+
+--- mssm.edu ping statistics ---
+50 packets transmitted, 0 received, +13 errors, 100% packet loss, time 50075ms
+

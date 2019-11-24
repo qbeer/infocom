@@ -1,0 +1,19 @@
+PING ucf.edu (132.170.219.161) 56(84) bytes of data.
+From 198.32.155.218 icmp_seq=6 Packet filtered
+From 198.32.155.218 icmp_seq=10 Packet filtered
+From 198.32.155.218 icmp_seq=18 Packet filtered
+From 198.32.155.218 icmp_seq=19 Packet filtered
+From 198.32.155.218 icmp_seq=20 Packet filtered
+From 198.32.155.218 icmp_seq=22 Packet filtered
+From 198.32.155.218 icmp_seq=24 Packet filtered
+From 198.32.155.218 icmp_seq=32 Packet filtered
+From 198.32.155.218 icmp_seq=33 Packet filtered
+From 198.32.155.218 icmp_seq=39 Packet filtered
+From 198.32.155.218 icmp_seq=42 Packet filtered
+From 198.32.155.218 icmp_seq=43 Packet filtered
+From 198.32.155.218 icmp_seq=48 Packet filtered
+From 198.32.155.218 icmp_seq=49 Packet filtered
+
+--- ucf.edu ping statistics ---
+50 packets transmitted, 0 received, +14 errors, 100% packet loss, time 58346ms
+

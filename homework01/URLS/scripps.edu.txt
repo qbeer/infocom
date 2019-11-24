@@ -1,0 +1,5 @@
+PING scripps.edu (137.131.200.36) 56(84) bytes of data.
+
+--- scripps.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+

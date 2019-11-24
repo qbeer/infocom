@@ -1,0 +1,5 @@
+PING cc.edu (174.143.45.139) 56(84) bytes of data.
+
+--- cc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+

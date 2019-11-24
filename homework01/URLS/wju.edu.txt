@@ -1,0 +1,5 @@
+PING wju.edu (192.188.131.10) 56(84) bytes of data.
+
+--- wju.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49393ms
+

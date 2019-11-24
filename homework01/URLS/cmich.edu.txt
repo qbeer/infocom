@@ -1,0 +1,55 @@
+PING cmich.edu (35.33.64.61) 56(84) bytes of data.
+From 141.209.55.5 icmp_seq=1 Packet filtered
+From 141.209.55.5 icmp_seq=2 Packet filtered
+From 141.209.55.5 icmp_seq=3 Packet filtered
+From 141.209.55.5 icmp_seq=4 Packet filtered
+From 141.209.55.5 icmp_seq=5 Packet filtered
+From 141.209.55.5 icmp_seq=6 Packet filtered
+From 141.209.55.5 icmp_seq=7 Packet filtered
+From 141.209.55.5 icmp_seq=8 Packet filtered
+From 141.209.55.5 icmp_seq=9 Packet filtered
+From 141.209.55.5 icmp_seq=10 Packet filtered
+From 141.209.55.5 icmp_seq=11 Packet filtered
+From 141.209.55.5 icmp_seq=12 Packet filtered
+From 141.209.55.5 icmp_seq=13 Packet filtered
+From 141.209.55.5 icmp_seq=14 Packet filtered
+From 141.209.55.5 icmp_seq=15 Packet filtered
+From 141.209.55.5 icmp_seq=16 Packet filtered
+From 141.209.55.5 icmp_seq=17 Packet filtered
+From 141.209.55.5 icmp_seq=18 Packet filtered
+From 141.209.55.5 icmp_seq=19 Packet filtered
+From 141.209.55.5 icmp_seq=20 Packet filtered
+From 141.209.55.5 icmp_seq=21 Packet filtered
+From 141.209.55.5 icmp_seq=22 Packet filtered
+From 141.209.55.5 icmp_seq=23 Packet filtered
+From 141.209.55.5 icmp_seq=24 Packet filtered
+From 141.209.55.5 icmp_seq=25 Packet filtered
+From 141.209.55.5 icmp_seq=26 Packet filtered
+From 141.209.55.5 icmp_seq=27 Packet filtered
+From 141.209.55.5 icmp_seq=28 Packet filtered
+From 141.209.55.5 icmp_seq=29 Packet filtered
+From 141.209.55.5 icmp_seq=30 Packet filtered
+From 141.209.55.5 icmp_seq=31 Packet filtered
+From 141.209.55.5 icmp_seq=32 Packet filtered
+From 141.209.55.5 icmp_seq=33 Packet filtered
+From 141.209.55.5 icmp_seq=34 Packet filtered
+From 141.209.55.5 icmp_seq=35 Packet filtered
+From 141.209.55.5 icmp_seq=36 Packet filtered
+From 141.209.55.5 icmp_seq=37 Packet filtered
+From 141.209.55.5 icmp_seq=38 Packet filtered
+From 141.209.55.5 icmp_seq=39 Packet filtered
+From 141.209.55.5 icmp_seq=40 Packet filtered
+From 141.209.55.5 icmp_seq=41 Packet filtered
+From 141.209.55.5 icmp_seq=42 Packet filtered
+From 141.209.55.5 icmp_seq=43 Packet filtered
+From 141.209.55.5 icmp_seq=44 Packet filtered
+From 141.209.55.5 icmp_seq=45 Packet filtered
+From 141.209.55.5 icmp_seq=46 Packet filtered
+From 141.209.55.5 icmp_seq=47 Packet filtered
+From 141.209.55.5 icmp_seq=48 Packet filtered
+From 141.209.55.5 icmp_seq=49 Packet filtered
+From 141.209.55.5 icmp_seq=50 Packet filtered
+
+--- cmich.edu ping statistics ---
+50 packets transmitted, 0 received, +50 errors, 100% packet loss, time 49347ms
+

@@ -1,0 +1,5 @@
+PING vanderbilt.edu (34.224.76.10) 56(84) bytes of data.
+
+--- vanderbilt.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 48999ms
+

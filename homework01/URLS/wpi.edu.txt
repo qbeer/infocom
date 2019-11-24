@@ -1,0 +1,34 @@
+PING wpi.edu (130.215.36.26) 56(84) bytes of data.
+From 18.2.0.42 icmp_seq=1 Packet filtered
+From 18.2.0.42 icmp_seq=2 Packet filtered
+From 18.2.0.42 icmp_seq=3 Packet filtered
+From 18.2.0.42 icmp_seq=7 Packet filtered
+From 18.2.0.42 icmp_seq=8 Packet filtered
+From 18.2.0.42 icmp_seq=9 Packet filtered
+From 18.2.0.42 icmp_seq=10 Packet filtered
+From 18.2.0.42 icmp_seq=17 Packet filtered
+From 18.2.0.42 icmp_seq=18 Packet filtered
+From 18.2.0.42 icmp_seq=19 Packet filtered
+From 18.2.0.42 icmp_seq=20 Packet filtered
+From 18.2.0.42 icmp_seq=21 Packet filtered
+From 18.2.0.42 icmp_seq=27 Packet filtered
+From 18.2.0.42 icmp_seq=28 Packet filtered
+From 18.2.0.42 icmp_seq=29 Packet filtered
+From 18.2.0.42 icmp_seq=30 Packet filtered
+From 18.2.0.42 icmp_seq=31 Packet filtered
+From 18.2.0.42 icmp_seq=37 Packet filtered
+From 18.2.0.42 icmp_seq=38 Packet filtered
+From 18.2.0.42 icmp_seq=39 Packet filtered
+From 18.2.0.42 icmp_seq=40 Packet filtered
+From 18.2.0.42 icmp_seq=41 Packet filtered
+From 18.2.0.42 icmp_seq=42 Packet filtered
+From 18.2.0.42 icmp_seq=43 Packet filtered
+From 18.2.0.42 icmp_seq=44 Packet filtered
+From 18.2.0.42 icmp_seq=47 Packet filtered
+From 18.2.0.42 icmp_seq=48 Packet filtered
+From 18.2.0.42 icmp_seq=49 Packet filtered
+From 18.2.0.42 icmp_seq=50 Packet filtered
+
+--- wpi.edu ping statistics ---
+50 packets transmitted, 0 received, +29 errors, 100% packet loss, time 49134ms
+

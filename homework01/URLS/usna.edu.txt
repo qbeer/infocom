@@ -1,0 +1,21 @@
+PING usna.edu (136.160.88.139) 56(84) bytes of data.
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=5 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=7 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=12 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=13 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=14 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=16 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=17 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=19 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=26 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=28 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=32 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=33 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=36 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=41 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=43 Packet filtered
+From ten1.usna-gw.net.ums.edu (136.160.255.46) icmp_seq=48 Packet filtered
+
+--- usna.edu ping statistics ---
+50 packets transmitted, 0 received, +16 errors, 100% packet loss, time 49251ms
+

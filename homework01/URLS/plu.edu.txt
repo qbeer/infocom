@@ -1,0 +1,5 @@
+PING PLU.edu (152.117.1.105) 56(84) bytes of data.
+
+--- PLU.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+

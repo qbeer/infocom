@@ -1,0 +1,8 @@
+PING newpaltz.edu (137.140.1.48) 56(84) bytes of data.
+From 144.121.118.178.lightower.net (144.121.118.178) icmp_seq=11 Packet filtered
+From 144.121.118.178.lightower.net (144.121.118.178) icmp_seq=37 Packet filtered
+From 144.121.118.178.lightower.net (144.121.118.178) icmp_seq=46 Packet filtered
+
+--- newpaltz.edu ping statistics ---
+50 packets transmitted, 0 received, +3 errors, 100% packet loss, time 49366ms
+

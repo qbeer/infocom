@@ -1,0 +1,21 @@
+PING taft.edu (216.120.228.150) 56(84) bytes of data.
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=5 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=6 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=7 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=8 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=9 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=10 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=11 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=12 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=16 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=21 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=29 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=30 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=33 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=35 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=39 ttl=52 time=101 ms
+64 bytes from epsilon.hrwebservices.net (216.120.228.150): icmp_seq=40 ttl=52 time=101 ms
+
+--- taft.edu ping statistics ---
+50 packets transmitted, 16 received, 68% packet loss, time 49283ms
+rtt min/avg/max/mdev = 101.295/101.600/101.971/0.463 ms

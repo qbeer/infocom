@@ -1,0 +1,5 @@
+PING maritime.edu (54.146.129.215) 56(84) bytes of data.
+
+--- maritime.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49391ms
+

@@ -1,0 +1,5 @@
+PING rosemead.edu (199.19.144.120) 56(84) bytes of data.
+
+--- rosemead.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+

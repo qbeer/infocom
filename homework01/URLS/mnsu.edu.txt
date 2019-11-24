@@ -1,0 +1,5 @@
+PING MNSU.EDU (134.29.1.130) 56(84) bytes of data.
+
+--- MNSU.EDU ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49392ms
+
